@@ -6,7 +6,7 @@ title: The Committee to Stop a Bad Cure
 <div id="home">
   {% for post in site.tags.hero %}
     <h2>{{ post.title }}</h2>
-    <p>{{ post.excerpt }}</p>
+    {{ post.excerpt }}
     <p><a href="/v2{{ post.url }}">Read more</a></p>
   {% endfor %}
   <ul class="posts">
