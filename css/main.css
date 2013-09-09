@@ -79,6 +79,11 @@ ul.posts span {
   margin-bottom: 2em;
 }
 
+.site .header h1.title img {
+  width: 100px;
+  height: 100px;
+}
+
 .site .header h1.title a {
   color: #a00;
 }
