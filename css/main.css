@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { font-size: 16pt; }
-h2 { font-size: 14pt; }
+h2 { font-size: 14pt; margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -76,12 +76,11 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
 }
 
 .site .header h1.title img {
-  width: 100px;
-  height: 100px;
+  width: 4em;
+  height: 4em;
 }
 
 .site .header h1.title a {
