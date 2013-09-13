@@ -1,21 +1,29 @@
 ---
 layout: default
-title: The Committee to Stop a Bad Cure
+title: Committee to Stop a Bad Cure
 ---
 
 <div id="home">
+  <div class="row">
   {% for post in site.tags.hero %}
-    <h2>{{ post.title }}</h2>
-    {{ post.excerpt }}
-    <p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+    {% if post.url == '/the-august-ambush' %}
+    <div class="col-md-7">
+    {% else %}
+    <div class="col-md-5">
+    {% endif %}
+      <h2>{{ post.title }}</h2>
+      {{ post.excerpt }}
+      <p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+    </div>
   {% endfor %}
+  </div>
   <ul class="posts">
   {% for post in site.posts %}
+    {% unless post.url == '/the-august-ambush' or post.url == '/about-us' %}
     <li>
-    {% if post.tags != 'hero' %}
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    {% endif %}
     </li>
-    {% endfor %}
+    {% endunless %}
+  {% endfor %}
   </ul>
 </div>

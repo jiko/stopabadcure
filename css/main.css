@@ -63,7 +63,7 @@ ul.posts span {
 
 .site {
   font-size: 115%;
-  text-align: justify;
+  text-align: left;
   max-width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
@@ -79,8 +79,8 @@ ul.posts span {
 }
 
 .site .header h1.title img {
-  width: 4em;
-  height: 4em;
+  width: 3em;
+  height: 3em;
 }
 
 .site .header h1.title a {
