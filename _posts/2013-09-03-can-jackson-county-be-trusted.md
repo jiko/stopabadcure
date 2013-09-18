@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Can Jackson County be trusted?
+title: "Jackson County...Overseeing something it doesn't know anything about? "
 published: true
 ---
+
 Jackson County is one of five parties that have signed a “Memorandum of Understanding” that comprises the skeletal agreement to create a new “Translational Medicine Institute of Jackson County.”
 
 The other parties are Children’s Mercy Hospital, UMKC, Saint Luke’s Health System and the Kansas City Area Life Sciences Institute.
