@@ -4,7 +4,7 @@ title: "Commuter rail: Re-routed to nowhere"
 published: true
 ---
 
-Until early this year, it looked like Jackson County voters would vote Nov. 5 on a long-awaited and much-needed plan for commuter rail.
+Until early this year, it looked like Jackson County residents would vote Nov. 5 on a long-awaited and much-needed plan for commuter rail.
 
 County Executive <strong>Mike Sanders</strong> had been pushing hard to bring commuter rail to one of the biggest cities in the country without a commuter or light-rail system.
 
