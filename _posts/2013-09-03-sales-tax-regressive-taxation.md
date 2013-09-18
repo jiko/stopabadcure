@@ -3,6 +3,7 @@ layout: post
 title: Sales tax = Regressive taxation
 published: true
 ---
+
 You might have heard or read that the sales tax is a “regressive” tax.
 
 What that means is that it hits hardest those least able to pay.
@@ -17,4 +18,4 @@ Take this example:
 
 People with higher incomes can be expected to spend more, in general, than people in lower-income brackets. But in most cases the spending differential probably does not amount to a multiple of five times.
 
-Conclusion: The rich hardly notice the hit, while lower-income people fork over a disproportionate share.
+Conclusion: _The rich hardly notice the hit, while lower-income people fork over a disproportionate share._
