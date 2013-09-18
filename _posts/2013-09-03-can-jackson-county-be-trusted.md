@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jackson County...Overseeing distribution of $40 million to $50 million a year for something it doesn't know anything about? "
+title: "Jackson County...Overseeing something it doesn't know anything about? "
 published: true
 ---
 
