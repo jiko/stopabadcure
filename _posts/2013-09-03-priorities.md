@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Is publicly funded medical research a top priority?
+title: "Is publicly funded medical research a top county priority?"
 published: true
 ---
+
 Where does “translational” medical research fall in Kansas City’s and Jackson County’s list of priorities?
 
-Kansas City has a lot on its plate right now.
+Kansas City has a lot on its plate right now. Consider that: 
 <ul>
-	<li>$2 billion overhaul of the combined stormwater and wastewater sewer-system is well underway</li>
+	<li>A $2 billion overhaul of the combined stormwater and wastewater sewer-system is well underway</li>
 	<li>Construction should begin next year on a $100 million downtown streetcar line, to be funded by a special taxing district</li>
 	<li>Commuter rail (which uses existing tracks) or light rail (which doesn’t use existing tracks) is badly needed to keep Kansas City in the top ranks of Midwestern cities.</li>
 	<li>Either a new, single-terminal airport has to be built or the existing three-terminal Kansas City International Airport has to be reconfigured and remodeled.</li>
@@ -23,4 +24,6 @@ So, how does “translational” medical research fit into this list?
 	<li>It’s a luxury, not a necessity.</li>
 	<li>It should be financed privately.</li>
 </ul>
-Pony up, then, Civic Council, and get on with raising the money privately, if this is so important. There’s plenty of wealth out there to tap for “translational” medical research.
+Pony up, then, Civic Council, and get on with raising the money privately if this is so important! 
+
+There’s plenty of wealth out there to tap for “translational” medical research. Leave Jackson County taxpayers out of it. 
