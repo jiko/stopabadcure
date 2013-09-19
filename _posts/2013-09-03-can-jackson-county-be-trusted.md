@@ -20,12 +20,12 @@ Theoretically, here’s how the $40 million to $50 million a year in sales-tax p
 </ul>
 It sounds good in theory, as tax proposals often do. Among many hazy provisions, however, is one that particularly stands out:
 
-<em>Should and could the county be trusted to oversee the disbursal of piles of money going to a venture that is totally new for county government?</em>
+<em>Can the county be trusted to oversee the disbursal of piles of money going to a venture that would be totally new for county government?</em>
 
 One of the county’s main functions is to simply assess residential, agricultural and commercial property within the county and collect property taxes.
 
-If you’ll recall, the county assessed thousands of parcels way beyond their fair market values. Taxpayers were furious. In disgrace, the county rescinded most of the increases; the county assessor resigned; and egg dripped from the face of County Executive Mike Sanders.
+If you’ll recall, earlier this year, the county assessed thousands of parcels way above their fair market values. Taxpayers were furious. In disgrace, the county rescinded most of the increases; the county assessor resigned; and egg dripped from the face of County Executive Mike Sanders.
 
-<em>Should and could the county be trusted to oversee the disbursal of piles of money going to a venture that is totally new for county government?</em>
+<em>Can the county be trusted to oversee the disbursal of piles of money going to a venture that would be totally new for county government?</em>
 
 Uhhh, no.
