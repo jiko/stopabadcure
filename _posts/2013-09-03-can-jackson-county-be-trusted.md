@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jackson County...Overseeing something it doesn't know anything about? "
+title: "Jackson County...What business does it have in \"translational medical research\"?"
 published: true
 ---
 
