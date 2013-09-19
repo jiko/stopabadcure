@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jackson County...What business does it have in \"translational medical research\"?"
+title: "Can Jackson County be trusted "
 published: true
 ---
 
