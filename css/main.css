@@ -1,3 +1,5 @@
+---
+---
 /*****************************************************************************/
 /*
 /* Common
@@ -13,7 +15,7 @@
 html, body { height: 100%; }
 
 body {
-  background: #00000c url('/stopabadcure/img/stopsign.svg') center no-repeat;
+  background: #00000c url('{{ site.baseurl }}/img/stopsign.svg') center no-repeat;
   font: 12pt Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
