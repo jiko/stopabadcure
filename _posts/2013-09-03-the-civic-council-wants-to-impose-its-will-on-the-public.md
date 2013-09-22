@@ -27,10 +27,11 @@ It is clear that the Civic Council of Greater Kansas City wants to impose its wi
 </ul>
 So, the Civic Council would like to saddle Jackson County taxpayers with the load.</p>
 
-<p>Here are a couple of other things to consider:
+Here are a couple of other things to consider:
+
 <ul>
 	<li>Last year, when Kansas City asked voters to approve a half-cent sales-tax-increase for parks, the Civic Council refused to support it. In fact, it said it wouldn’t approve any city ballot issues until city officials completed a multi-year financial plan. (Voters approved the sale-tax increase.)</li>
 	<li>The last time the Civic Council tried to impose its will on the city was in 1991, when it fielded its hand-picked mayoral candidate, <strong>Brice Harris</strong>, a Metropolitan Community Colleges executive. Harris didn’t make it out of the primary, and Emanuel Cleaver went on to win the mayor’s race.</li>
 </ul>
 
-</p>Fellow Jackson Countians,let's put the brakes on this train, which has nothing but wealthy people in the conductors' seats.</p>
+Fellow Jackson Countians,let's put the brakes on this train, which has nothing but wealthy people in the conductors' seats.
