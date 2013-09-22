@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background: #00000c url('/img/stopsign.svg') center no-repeat;
   font: 12pt Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -27,8 +27,6 @@ h2 { font-size: 14pt; margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
 
 table {
   font-size: inherit;
@@ -65,8 +63,13 @@ ul.posts span {
   font-size: 115%;
   text-align: left;
   max-width: 42em;
-  margin: 3em auto 2em;
+  margin: 1em auto;
   line-height: 1.5em;
+  background: #FFF;
+  padding: 2em 2em 1em 2em;
+  -moz-box-shadow: 0 0 5px #888;
+  -webkit-box-shadow: 0 0 5px #888;
+  box-shadow: 0 0 5px #888;
 }
 
 .site .header a {
@@ -76,6 +79,9 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
+  margin: 0;
+  width: 100%;
+  text-align: center;
 }
 
 .site .header h1.title img {
@@ -84,11 +90,11 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  color: #a00;
+  color: #000;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  color: #a00;
 }
 
 .site .header a.extra {
