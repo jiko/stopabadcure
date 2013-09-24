@@ -81,7 +81,7 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin: 0;
+  margin: 0 0 1em 0;
   width: 100%;
   text-align: center;
 }
