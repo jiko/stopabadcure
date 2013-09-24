@@ -15,7 +15,7 @@
 html, body { height: 100%; }
 
 body {
-  background: #00000c url('{{ site.baseurl }}/img/stopsign.svg') center no-repeat;
+  background: #00000c url('{{ site.baseurl }}/img/stopsign.svg') center top no-repeat;
   font: 12pt Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -72,6 +72,7 @@ ul.posts span {
   -moz-box-shadow: 0 0 5px #888;
   -webkit-box-shadow: 0 0 5px #888;
   box-shadow: 0 0 5px #888;
+  border-radius: 6px;
 }
 
 .site .header a {
@@ -137,6 +138,11 @@ ul.posts span {
 
 .site .footer .rss img {
   border: 0;
+}
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 0;
 }
 
 /*****************************************************************************/

@@ -17,8 +17,7 @@ published: true
     <div class="col-md-5">
     {% endif %}
       <h2>{{ post.title }}</h2>
-      {{ post.excerpt }}
-      <p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+      <p>{{ post.excerpt | strip_html }} &mdash; <a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
     </div>
   {% endfor %}
   </div>
@@ -26,7 +25,7 @@ published: true
   {% for post in site.posts %}
     {% unless post.url == '/the-august-ambush' or post.url == '/about-us' %}
     <li>
-      {{ post.date | date: "%b %d, %Y" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%b %d, %Y" }} &middot; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endunless %}
     {% endfor %}
