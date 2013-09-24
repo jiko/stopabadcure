@@ -4,7 +4,7 @@ Layout: post
 Title: About the committee
 ---
 
-The Stop a Bad Cure Committee currently has 25 members, including me. Here are the members, listed alphabetically. I want to thank them for jumping on board: 
+The Stop a Bad Cure Committee currently has 25 members, including me. Here are the members, listed alphabetically. 
 
 - **Joe Arthur**, Lee’s Summit
 - **Richard Arthur**, Lee’s Summit
