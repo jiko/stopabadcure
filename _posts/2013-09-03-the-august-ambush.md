@@ -19,8 +19,6 @@ Very curiously, the Civic Council lowered the boom on the County Legislature jus
  
 At least one legislator, <strong>Fred Arbanas</strong>, said he learned about the proposal by reading an Aug. 8 story about it in <em>The Kansas City Star</em>.
 
-![](/)
-
 Several legislators privately grumbled about the rush job, but the Civic Council turned the wrench tightly, and on Aug. 26, the Legislature voted 7-2 to place <strong>Jackson County Question No. 1</strong> on the November ballot.
 
 At the legislative meeting, one of the legislators who voted “no,” **Bob Spence**, said simply, “I don’t think the county should be in this business.”
