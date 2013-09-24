@@ -21,7 +21,7 @@ At least one legislator, <strong>Fred Arbanas</strong>, said he learned about th
 
 Several legislators privately grumbled about the rush job, but the Civic Council turned the wrench tightly, and on Aug. 26, the Legislature voted 7-2 to place <strong>Jackson County Question No. 1</strong> on the November ballot.
 
-At the legislative meeting, one of the legislators who voted “no,” Bob Spence, said simply, “I don’t think the county should be in this business.”
+At the legislative meeting, one of the legislators who voted “no,” **Bob Spence**, said simply, “I don’t think the county should be in this business.”
 
 The business, that is, of medical research.
 
@@ -29,7 +29,7 @@ In an interview later, Spence, who lives in Lee’s Summit, also said the measur
 
 “I didn’t think that was appropriate,” he said.
 
-The other legislator who voted “no” was legislative chairman Greg Grounds of Blue Springs, where a half-cent sales tax for parks is also on the Nov. 5 ballot. Grounds got more pressure from his constituents than he did from civic leaders and ended up voting against the measure, even though he initially was one of its sponsors!   
+The other legislator who voted “no” was legislative chairman **Greg Grounds** of Blue Springs, where a half-cent sales tax for parks is also on the Nov. 5 ballot. Grounds got more pressure from his constituents than he did from civic leaders and ended up voting against the measure, even though he initially was one of its sponsors!   
 
 The big question in all this is: _Why did the Civic Council not show its cards until early August?_ 
 
