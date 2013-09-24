@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jackson County Question 1: Ballot Language"
+title: "Question 1: Ballot Language"
 published: true
 ---
 
