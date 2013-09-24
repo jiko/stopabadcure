@@ -4,7 +4,7 @@ title: Sales tax = Regressive taxation
 published: true
 ---
 
-![Receipt](//_posts/receipt.jpg)
+![Receipt](/_posts/receipt.jpg)
 
 You might have heard or read that the sales tax is a “regressive” tax.
 
