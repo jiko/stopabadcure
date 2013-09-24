@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sales tax = Regressive taxation
+title: Sales tax = Regressive Taxation
 published: true
 ---
 
-![Receipt](/_posts/receipt.jpg)
+![Receipt](../receipt.jpg)
 
 You might have heard or read that the sales tax is a “regressive” tax.
 
