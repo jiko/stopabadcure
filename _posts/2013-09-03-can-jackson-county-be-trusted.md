@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can Jackson County be trusted "
+title: "Can Jackson County be trusted? "
 published: true
 ---
 
