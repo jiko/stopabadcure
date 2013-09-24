@@ -34,6 +34,16 @@ We will run a low-budget, strategic campaign. In addition to this website, we wi
 
 Even though it will be a relatively low-spending campaign, we will need several thousand dollars to get our message out and try to offset the anticipated $1 million campaign that the proponents will be running.
 
-As committee founder and treasurer, I (Jim Fitzpatrick – see “About me”) have contributed $3,500 to the campaign.
+As committee founder and treasurer, I (Jim Fitzpatrick – see “About me”) have contributed $3,500 to the campaign, and .
 
 I certainly could use your support, not just at the polls on Nov. 5, but financially, so we can have a campaign that makes the proponents stand up and take notice.
+
+You can contribute either through the _PayPal_ button on this site or by sending checks to: 
+
+<address>
+Committee to Stop a Bad Cure<br/>
+1209 W. 64th Terr<br/>
+Kansas City, MO  64113<br/>
+</address>
+
+Let's make an impact.
