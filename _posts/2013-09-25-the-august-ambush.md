@@ -19,7 +19,7 @@ Very curiously, the Civic Council lowered the boom on the County Legislature jus
  
 At least one legislator, <strong>Fred Arbanas</strong>, said he learned about the proposal by reading an Aug. 8 story about it in <em>The Kansas City Star</em>.
 
-![Bonny and Clyde](/_posts/ambushphoto.jpg)
+<img src="{{ site.baseurl }}/img/ambushphoto.jpg" class="img-responsive" alt="Bonny and Clyde">
 
 Several legislators privately grumbled about the rush job, but the Civic Council turned the wrench tightly, and on Aug. 26, the Legislature voted 7-2 to place <strong>Jackson County Question No. 1</strong> on the November ballot.
 
