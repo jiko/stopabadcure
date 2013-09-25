@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Civic Council wants to impose its will on the public
-published: true
+published: false
 ---
 
 It is clear that the Civic Council of Greater Kansas City wants to impose its will on Jackson County taxpayers and have them pay for $800 million to $1 billion worth of "translational" medical research over the next 20 years rather than finance their pet project privately, as it should be done. 
