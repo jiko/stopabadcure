@@ -4,6 +4,8 @@ title: "Should medical research become a top county government priority?"
 published: true
 ---
 
+<img src="{{ site.baseurl }}/img/kci.jpg" class="img-responsive" alt="Kansas City International Airport">
+
 Where does “translational” medical research fall in Kansas City’s and Jackson County’s list of priorities?
 
 Kansas City has a lot on its plate right now. Consider that: 
