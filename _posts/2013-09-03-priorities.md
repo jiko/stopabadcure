@@ -4,7 +4,6 @@ title: "Should medical research become a top county government priority?"
 published: true
 ---
 
-<img src="{{ site.baseurl }}/img/kci.jpg" class="img-responsive" alt="Kansas City International Airport">
 
 Where does “translational” medical research fall in Kansas City’s and Jackson County’s list of priorities?
 
@@ -15,6 +14,9 @@ Kansas City has a lot on its plate right now. Consider that:
 	<li>Commuter rail (which uses existing tracks) or light rail (which doesn’t use existing tracks) is badly needed to keep Kansas City in the top ranks of Midwestern cities.</li>
 	<li>Either a new, single-terminal airport has to be built or the existing three-terminal Kansas City International Airport has to be reconfigured and remodeled.</li>
 </ul>
+
+<img src="{{ site.baseurl }}/img/kci.jpg" class="img-responsive" alt="Kansas City International Airport">
+
 Funds for airport improvements would require voters to approve the issuance of revenue bonds, and rail would have to be funded at least partly with a new sales tax that would require voter approval.
 
 That’s not to mention curb, street and bridge repairs; demolition of rundown housing; park and boulevard maintenance; and maintaining high-quality fire and police facilities — <em>all of which are ongoing, essential priorities</em>.
