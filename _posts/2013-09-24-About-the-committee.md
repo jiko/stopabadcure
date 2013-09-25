@@ -1,5 +1,5 @@
 ---
-published: false
+published: true 
 Layout: post
 Title: About the committee
 ---
@@ -29,12 +29,11 @@ The Stop a Bad Cure Committee currently has 25 members, including me. Here are t
 - **Rev. John Wandless**, Kansas City
 - **Jim and Sarah Weitzel**, Kansas City
 
-<<<<<<< HEAD
 We will run a low-budget, strategic campaign. In addition to this website, we will have some paid advertising (although no TV or radio ads). The scale of the effort will depend on how much we receive in contributions.
 
 Even though it will be a relatively low-spending campaign, we will need several thousand dollars to get our message out and try to offset the anticipated $1 million campaign that the proponents will be running.
 
-As committee founder and treasurer, I (Jim Fitzpatrick – see “About me”) have contributed $3,500 to the campaign.
+As committee founder and treasurer, I, [Jim Fitzpatrick]({{ base.url }}/about-me/) have contributed $3,500 to the campaign.
 
 I certainly could use your support, not just at the polls on Nov. 5, but financially, so we can have a campaign that makes the proponents stand up and take notice.
 
