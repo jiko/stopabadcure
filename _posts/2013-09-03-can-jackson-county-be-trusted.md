@@ -12,7 +12,7 @@ The county already provides millions of dollars in funding for several health ca
 
 <em>But it has never stuck a toe in — much less jumped into the depths of — medical research.</em>
 
-Theoretically, here’s how the $40 million to $50 million a year in sales-tax proceeds would circulate:
+Theoretically, here’s how the $40 million to $50 million a year in sales-tax proceeds would be disbursed:
 <ul>
 	<li>The state would collect the half-cent sales and send it back to the county, minus a $400,000 annual collection fee.</li>
 	<li>The county would appropriate the money to a newly created nonprofit called the “Translational Medicine Institute of Jackson County.”</li>
