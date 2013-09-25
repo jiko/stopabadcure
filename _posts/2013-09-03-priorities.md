@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is publicly funded medical research a top county priority?"
+title: "Should medical research become a top county government priority?"
 published: true
 ---
 
@@ -26,4 +26,4 @@ So, how does “translational” medical research fit into this list?
 </ul>
 Pony up, then, Civic Council, and get on with raising the money privately if this is so important! 
 
-There’s plenty of wealth out there to tap for “translational” medical research. Leave Jackson County taxpayers out of it. 
+There’s plenty of wealth out there to tap for “translational” medical research. Leave Jackson County taxpayers out of it.
