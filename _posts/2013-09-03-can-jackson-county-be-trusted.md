@@ -18,7 +18,7 @@ Theoretically, here’s how the $40 million to $50 million a year in sales-tax p
 	<li>The county would appropriate the money to a newly created nonprofit called the “Translational Medicine Institute of Jackson County.”</li>
 	<li>The “Institute” would allocate the money among the beneficiaries. Tax revenue could be used “solely to fund the Institute.”</li>
 </ul>
-It sounds good in theory, as tax proposals often do. Among many hazy provisions, however, is one that particularly stands out:
+It sounds good in theory, as tax proposals often do. But...
 
 <em>Can the county be trusted to oversee the disbursal of piles of money going to a venture that would be totally new for county government?</em>
 
