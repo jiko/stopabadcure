@@ -7,7 +7,7 @@ published: true
 
 Where does “translational” medical research fall in Kansas City’s and Jackson County’s list of priorities?
 
-Kansas City has a lot on its plate right now. Consider that: 
+Kansas City and Jackson County have a lot on their plates right now. Consider that: 
 <ul>
 	<li>A $2 billion overhaul of the combined stormwater and wastewater sewer-system is well underway</li>
 	<li>Construction should begin next year on a $100 million downtown streetcar line, to be funded by a special taxing district</li>
