@@ -8,7 +8,7 @@ published: true
 
 <p>One of the things that proponents of the half-cent sales tax must rue the most is a statement made by the KU Cancer Center’s director of research in the Aug. 8 issue of <em>The Kansas City Star</em>.</p>
 
-<p>_Scott Weir_, the researcher, was quoted as saying:
+<p>Scott Weir, the researcher, was quoted as saying:
 <blockquote>_"This is an opportunity (for Jackson County) to bring in rock star researchers who can develop a product that can be turned into a start-up company."_</blockquote>
 That hardly rings of assurance with middle- and lower-income Jackson County residents, who would bear the brunt of the tax load.</p>
 
