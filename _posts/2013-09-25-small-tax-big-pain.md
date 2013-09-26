@@ -1,8 +1,9 @@
 ---
 published: true
 layout: post
-title: 
+title: null
 ---
+
 <img src="{{ site.baseurl }}/img/shoppinglist.jpg" class="img-responsive" alt="Shopping List">
 
 The image above does not contain clues to the whereabouts of buried treasure. It's just a shopping list. I found it earlier this week in the parking lot of a Hy-Vee store.
@@ -15,5 +16,4 @@ _Kate, who lives in an older part of Independence, said, "I live around so many 
 
 Estimates are that an additional half-cent sales tax would cost the average person at least $5 to $10 a month -- and more if you had a big purchase, like a used car.  
 
-Take another look at that list...That shopper is pinching his or her pennies and wouldn't be a bit happy about a new half-cent sales tax.  
-
+Take another look at that list...That shopper is pinching his or her pennies and wouldn't be a bit happy about a new half-cent sales tax.
