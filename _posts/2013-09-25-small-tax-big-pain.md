@@ -10,7 +10,7 @@ The image above does not contain clues to the whereabouts of buried treasure. It
 
 I picked it up, with the intention of throwing it away. But then I looked at it and realized that it was the list of a person who is either very tight fisted or, more likely, really watching their spending because every dollar is precious.
 
-The list called to mind a quote from Kate Beem, a member of our Stop a Bad Cure Committee. 
+The list called to mind a quote from **Kate Beem**, a member of our Stop a Bad Cure Committee. 
 
 _Kate, who lives in an older part of Independence, said, "I live around so many people who literally could not afford to spend $5 more a month.”_
 
