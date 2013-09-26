@@ -16,7 +16,7 @@ Theoretically, here’s how the $40 million to $50 million a year in sales-tax p
 <ul>
 	<li>The state would collect the half-cent sales and send it back to the county, minus a $400,000 annual collection fee.</li>
 	<li>The county would appropriate the money to a newly created nonprofit called the “Translational Medicine Institute of Jackson County.”</li>
-	<li>The “Institute” would allocate the money among the beneficiaries. Tax revenue could be used “solely to fund the Institute.”</li>
+	<li>The “Institute” would allocate the money to the Children's Mercy, St. Luke's and UMKC. Tax revenue could be used “solely to fund the Institute.”</li>
 </ul>
 It sounds good in theory, as tax proposals often do. But...
 
