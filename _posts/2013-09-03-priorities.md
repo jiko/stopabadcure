@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Should medical research become a top county government priority?"
+title: "Should medical research be a county government priority?"
 published: true
 ---
 
