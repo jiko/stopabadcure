@@ -4,12 +4,13 @@ layout: post
 title: About the Committee
 ---
 
-The Stop a Bad Cure Committee currently has 26 members, including me. All are Jackson County residents. Here are the members, listed alphabetically. 
+The Stop a Bad Cure Committee currently has 27 members, including me. All are Jackson County residents. Here are the members, listed alphabetically. 
 
 - **Joe Arthur**, Lee’s Summit
 - **Richard Arthur**, Lee’s Summit
 - **Martha Becker**,Kansas City
 - **Kate Beem**, Independence
+- **Kaler Bole**, Kansas City
 - **Don Biggs**, Kansas City
 - **Patty Fitzpatrick**, Kansas City
 - **Claudia Freiburghouse**, Kansas City
