@@ -11,6 +11,8 @@ Here are the elements of my proposal:
 - The County Legislature and the Civic Council of Greater Kansas City (the corporate bigshots) take the necessary steps to pull Jackson County Question 1 off the November ballot. (The deadline for doing that, Sept. 24, has now passed.)
 
 - The Hall family and the Hall Family Foundation redirect its $75 million pledge to build a translational medicine headquarters in return for voters approving the half-cent sales tax. Instead, challenge other corporations and foundations, and wealthy individuals, to raise an additional $425 million.
+<img class="img-responsive" src="{{ site.baseurl }}/img/Don-Dave-Don-Hall.jpg" alt="Hallmark kingpins">
+<span class="caption">Hallmark kingpins Donald Hall Sr., David Hall and Donald Hall Jr.</span>
 
 - With $425 million in pledges in hand, private funding would amount to $500 million, including the Hall family's $75 million.
 
