@@ -5,7 +5,7 @@ tags: hero
 published: true
 ---
 
-The seeds for committee formation sewn Aug. 26, when the Jackson County Legislature voted 7-2 to put on the Nov. 5 ballot a proposed new half-cent sales tax for "translational medical research."  
+The seeds for committee formation were sewn Aug. 26, when the Jackson County Legislature voted to put a proposed new half-cent sales tax measure on the Nov. 5 ballot.   
 
 When I began asking friends what they thought about the proposal, their reaction, almost to a person, was the same as mine: Bad tax.
 
