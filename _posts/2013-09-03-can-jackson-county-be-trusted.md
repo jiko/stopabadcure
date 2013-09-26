@@ -22,7 +22,7 @@ Here’s how the $40 million to $50 million a year in sales-tax proceeds is supp
     <li>About $4 million a year would be set aside for “further economic development initiatives…including institutions such as the Metropolitan Community Colleges.”</li>
 </ul>
 
-(That last category — nebulous economic development initiatives — is particularly troublesome. In fact, it sounds like "slush fund" to me.)
+(That last category — nebulous "economic development initiatives" — is particularly troublesome. In fact, it sounds a lot like "slush fund" to me.)
 
 <em>In theory, most of the distribution formula sounds good, but an important element to consider is the track record of the entity with ultimate control of the money -- the county.</em>
 
