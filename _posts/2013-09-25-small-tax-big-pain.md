@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Small Tax, Big Pain"
+title: 
 ---
 <img src="{{ site.baseurl }}/img/shoppinglist.jpg" class="img-responsive" alt="Shopping List">
 
