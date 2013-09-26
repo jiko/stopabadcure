@@ -9,7 +9,7 @@ The seeds for committee formation were sewn Aug. 26, when the Jackson County Leg
 
 When I began asking friends what they thought about the proposal, their reaction, almost to a person, was the same as mine: Bad tax.
 
-Gut feeling affirmed, I jumped in. I registered the committee with the Jackson County Election Board on Aug. 27.
+Gut feeling affirmed, I decided to jump in. I registered the committee with the Jackson County Election Board on Aug. 27.
 
 So, who am I? I am Jim Fitzpatrick, a proud Kansas Citian for more than 40 years. I married a Kansas City woman, Patty Corteville, in 1985, and we have two children — a 25-year-old daughter, Brooks, and a 24-year-old son, Charlie.
 
