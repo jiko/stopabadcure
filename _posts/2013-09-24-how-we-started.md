@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About me
+title: How we started
 tags: hero
 published: true
 ---
