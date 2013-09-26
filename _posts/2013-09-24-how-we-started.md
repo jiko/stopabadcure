@@ -5,11 +5,11 @@ tags: hero
 published: true
 ---
 
-A few people have asked me why I formed the **Committee to Stop a Bad Cure.**
+The seeds for the formation of the **Committee to Stop a Bad Cure** were sewn on Aug. 26, when the Jackson County Legislature voted 7-2 to put on the Nov. 5 ballot a proposed new half-cent sales tax for "translational medical research."  
 
 When I began asking friends what they thought about the proposal, their reaction, almost to a person, was the same as mine: Bad tax.
 
-Gut feeling affirmed, I jumped in.
+Gut feeling affirmed, I jumped in. I registered the committee with the Jackson County Election Board on Aug. 27.
 
 So, who am I? I am Jim Fitzpatrick, a proud Kansas Citian for more than 40 years. I married a Kansas City woman, Patty Corteville, in 1985, and we have two children — a 25-year-old daughter, Brooks, and a 24-year-old son, Charlie.
 
