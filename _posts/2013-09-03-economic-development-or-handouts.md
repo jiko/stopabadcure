@@ -6,7 +6,7 @@ published: true
 
 <img src="{{ site.baseurl }}/img/giveaway.jpg" class="img-responsive" alt="Give Away">
 
-The Civic Council is attempting to sell its proposed half-cent sales tax for “translational” medical research on the expectation that the research will spur economic development.
+The Civic Council (an organization of the area's top business people) is attempting to sell its proposed half-cent sales tax for “translational” medical research on the expectation that the research will spur economic development.
 
 That’s a smart ploy because, in this post-Great Recession period, everybody wants “economic development.”
 
