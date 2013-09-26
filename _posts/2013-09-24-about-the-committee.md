@@ -34,7 +34,7 @@ We will run a low-budget, strategic campaign. In addition to this website, we wi
 
 Even though it will be a relatively low-spending campaign, we will need several thousand dollars to get our message out and try to offset the anticipated $1 million campaign that the proponents will be running.
 
-As committee founder and treasurer, I, [Jim Fitzpatrick]({{ site.baseurl }}/about-me/) have contributed $3,500 to the campaign.
+As committee founder and treasurer, I, [Jim Fitzpatrick]({{ site.baseurl }}/about-me/), have contributed $3,500 to the campaign.
 
 I certainly could use your support, not just at the polls on Nov. 5, but financially, so we can have a campaign that makes the proponents stand up and take notice.
 
