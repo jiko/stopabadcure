@@ -14,9 +14,12 @@ The county already provides millions of dollars in funding for several health ca
 
 Theoretically, here’s how the $40 million to $50 million a year in sales-tax proceeds would be disbursed:
 <ul>
-	<li>The state would collect the half-cent sales and send it back to the county, minus a $400,000 annual collection fee.</li>
-	<li>The county would appropriate the money to a newly created nonprofit called the “Translational Medicine Institute of Jackson County.”</li>
-	<li>The “Institute” would allocate the money to the Children's Mercy, St. Luke's and UMKC. Tax revenue could be used “solely to fund the Institute.”</li>
+    <li>About $400,000 a year (one percent) would be paid to the state to collect the tax.</li>
+    <li>About $1 million a year would be allocated for annual performance and fiscal audits.</li>
+    <li>About $8 million a year would go to St. Luke’s Health System.</li>
+    <li>About $8 million a year would go to the UMKC schools of medicine, dentistry, pharmacy and nursing.</li> 
+    <li>About $20 million a year would go to Children’s Mercy Hospitals and clinics.</li>
+    <li>About $4 million a year would be set aside for “further economic development initiatives…including institutions such as the Metropolitan Community Colleges.”</li>
 </ul>
 It sounds good in theory, as tax proposals often do. But...
 
