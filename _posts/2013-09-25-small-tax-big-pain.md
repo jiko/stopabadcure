@@ -3,6 +3,7 @@ published: true
 layout: post
 title: "Small Tax, Big Pain"
 ---
+<img src="{{ site.baseurl }}/img/shoppinglist.jpg" class="img-responsive" alt="Shopping List">
 
 The image above does not contain clues to the whereabouts of buried treasure. It's just a shopping list. I found it earlier this week in the parking lot of a Hy-Vee store.
 
@@ -16,4 +17,3 @@ Estimates are that an additional half-cent sales tax would cost the average pers
 
 Take another look at that list...That shopper is pinching his or her pennies and wouldn't be a bit happy about a new half-cent sales tax.  
 
-<img src="{{ site.baseurl }}/img/shoppinglist.jpg" class="img-responsive" alt="Shopping List">
