@@ -15,7 +15,7 @@ Kansas City and Jackson County have a lot on their plates right now. Consider th
 	<li>Either a new, single-terminal airport has to be built or the existing three-terminal Kansas City International Airport has to be reconfigured and remodeled.</li>
 </ul>
 
-<img src="{{ site.baseurl }}/img/kci.jpg" class="img-responsive" alt="Kansas City International Airport">
+<img src=" }}/img/kci.jpg" class="img-responsive" alt="Kansas City International Airport">
 
 Funds for airport improvements would require voters to approve the issuance of revenue bonds, and rail would have to be funded at least partly with a new sales tax that would require voter approval.
 

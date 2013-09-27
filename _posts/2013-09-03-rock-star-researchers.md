@@ -4,7 +4,7 @@ title: “Rock star researchers”
 published: true
 ---
 
-<img src="{{ site.baseurl }}/img/rockstarresearchers.jpg" height='175' width='300' class="img-responsive">
+<img src=" }}/img/rockstarresearchers.jpg" height='175' width='300' class="img-responsive">
 
 <p>One of the things that proponents of the half-cent sales tax must rue the most is a statement made by the KU Cancer Center’s director of research in the Aug. 8 issue of <em>The Kansas City Star</em>.</p>
 

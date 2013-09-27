@@ -15,7 +15,7 @@ So, who am I? I am Jim Fitzpatrick, a proud Kansas Citian for more than 40 years
 
 I am not an anti-tax crusader, and I am not a Tea Party member. I just want to see my city and my county be the best places they can be, while putting our tax dollars to the "best and highest use."  
 
-<img class="img-responsive" src="{{ site.baseurl }}/img/jimfitz.jpg" width="300" height="225" />
+<img class="img-responsive" src=" }}/img/jimfitz.jpg" width="300" height="225" />
 
 I also am:
 
