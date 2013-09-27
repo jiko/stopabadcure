@@ -158,10 +158,6 @@ ul.posts span {
   padding: 0 .4em;
 }
 
-.post ul, .post ol {
-  margin-left: 1.35em;
-}
-
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -190,4 +186,8 @@ ul.posts span {
 
 .site .footer .contact .share a {
   color: #fff;
+}
+
+.letters {
+  padding-right: 1em;
 }
