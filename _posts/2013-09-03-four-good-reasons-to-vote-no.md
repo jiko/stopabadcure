@@ -4,7 +4,7 @@ title: Four good reasons to vote “No” on Nov. 5
 published: true
 ---
 
-<img src=" }}/img/trickle-down-begins.jpg" alt="Trickle Down Economics" class="img-responsive">
+<img src="/img/trickle-down-begins.jpg" alt="Trickle Down Economics" class="img-responsive">
 
 <br>
 <ol>

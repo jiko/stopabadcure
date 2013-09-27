@@ -4,7 +4,7 @@ title: "Economic development or handouts?"
 published: true
 ---
 
-<img src=" }}/img/giveaway.jpg" class="img-responsive" alt="Give Away">
+<img src="/img/giveaway.jpg" class="img-responsive" alt="Give Away">
 
 The Civic Council (an organization of the area's top business people) is attempting to sell its proposed half-cent sales tax for “translational” medical research on the expectation that the research will spur economic development.
 

@@ -4,7 +4,7 @@ layout: default
 title: "Small Tax, Big Pain"
 ---
 
-<img src=" }}/img/shoppinglist.jpg" class="img-responsive" alt="Shopping List">
+<img src="/img/shoppinglist.jpg" class="img-responsive" alt="Shopping List">
 
 The image above does not contain clues to the whereabouts of buried treasure. It's just a shopping list. I found it earlier this week in the parking lot of a Hy-Vee store.
 
