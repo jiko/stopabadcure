@@ -25,7 +25,7 @@ I also am:
 
 I registered the **Committee to Stop a Bad Cure** on Tuesday, Aug. 27, the day after the Jackson County Legislature voted 7-2 to put the sales-tax measure on the Nov. 5 ballot.
 
-The committee currently has 27 members, including me. (See "About the Committee") for the names and cities of residence.
+The committee currently has 27 members, including me. See [About the Committee](/about-the-committee) for the names and cities of residence.
 
 You might be asking yourself: _What's in this for Jim Fitzpatrick?_
 
