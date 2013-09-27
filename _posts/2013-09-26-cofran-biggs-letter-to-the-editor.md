@@ -26,7 +26,6 @@ Here they are.
     <p>We won’t have to use our tax dollars to pay them to come here._</p>
 </ul>
 
-***
 
 **Biggs:**
 
@@ -43,6 +42,3 @@ Here they are.
 
     <p>Being the easiest source of new revenue for governmental units does not justify the added cost to families for school supplies, groceries or even a family dinner outing._</p>
 </ul>
-
-
-
