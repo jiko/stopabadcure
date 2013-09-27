@@ -4,7 +4,7 @@ title: Current Sales Tax Rates
 published: false
 ---
 
-In the Kansas City part of Jackson County, the sales tax rate is 8.35 percent. (It went up from 4.75 percent, and the proposed half-cent Civic Council Sales Tax, if approved, would push that to just shy of 9 percent.
+In the Kansas City part of Jackson County, the sales tax rate is 8.35 percent, and the proposed half-cent sales tax increase would push that to just shy of 9 percent.
 
 That doesn’t tell the whole story, however.
 
