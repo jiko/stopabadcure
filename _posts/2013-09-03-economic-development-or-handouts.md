@@ -18,6 +18,6 @@ Ordinarily, citizens do not look to nonprofits to generate significant, new econ
 
 It's all based on smoke and mirrors.
 
-_"Trust us,"_the Civic Council is saying, _"we will spend your money wisely."_
+_"Trust us,"_ the Civic Council is saying, _"we will spend your money wisely."_
 
 Sure. You bet.
