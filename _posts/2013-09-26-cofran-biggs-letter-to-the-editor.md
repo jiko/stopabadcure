@@ -20,7 +20,7 @@ Here they are.
 
 **Cofran:**
 
-<img src="/img/DanCofran.jpg" alt="Dan Confran" class="img-responsive pull-left letters" width='200px'>
+<img src="/img/DanCofran.jpg" alt="Dan Confran" class="img-responsive pull-left letters"> 
 
 _The proposed Jackson County half-cent sales tax for medical research is well intentioned but misdirected. The most important thing local government can do for economic development is provide quality basic services, namely, public safety, public education and public works, based on reasonable taxes and user fees._
 
@@ -30,7 +30,7 @@ _We won’t have to use our tax dollars to pay them to come here._
 
 **Biggs:**
 
-<img src="/img/biggs.jpg" alt="Don Biggs" class="img-responsive pull-left letters" width='200px'>
+<img src="/img/biggs.jpg" alt="Don Biggs" class="img-responsive pull-left letters">
 
 _I am disappointed in still another effort to raise the sales tax in Kansas City. Anti-tax is not my mode as I have voted for previous proposals, but enough is enough._
 
