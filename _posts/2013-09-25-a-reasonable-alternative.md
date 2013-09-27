@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Reasonable Alternative
-published: true
+published: false
 ---
 
 On Sept. 6, I held a news conference on the steps of the Jackson county Courthouse downtown and laid out an alternative to the proposed half-cent sales tax for "translational" medical research.
