@@ -8,8 +8,9 @@ published: true
 
 <br>
 <ol>
-	<li>Jackson County should not be up to its eyeballs in the medical research business.</li>
-    <li>The county can't be trusted. The county's main job is to assign property values; mail tax bills; and collect and distribute the proceeds. We saw earlier this year, with the reassessment mess, that the county has enough trouble just getting property assessed fairly.</li>
-	<li>The proponents’ contention that the proceeds from a new sales tax would significantly boost “economic development” is based strictly on trickle-down economics. Those of us who have been around a while know how that works.</li>
-	<li>Sales taxes work the greatest hardship on lower- and middle-income people. To the wealthy, an additional half-cent sales tax is gum money. To those in financial distress, it could mean a bigger struggle to pay the rent or put enough food on the table.</li>
+	<li>Medical research is far removed from the county's main responsibilities of assessing and collecting taxes and providing services in the unincorporated areas.</li>
+    <li>Sales taxes work the greatest hardship on lower- and middle-income people. To the wealthy, an additional half-cent sales tax is gum money. To those in financial distress, it could mean a bigger struggle to pay the rent or put enough food on the table.</li>
+    <li>The proponents’ contention that the proceeds from a new sales tax would significantly boost “economic development” is based strictly on trickle-down economics. Those of us who have been around a while know how that works.</li>
+    <li>The city and county have plenty of higher, unfunded priorities, such as getting a commuter or light-rail system; completing the combined sewer system program; and renovating and reconfiguring Kansas City International Airport 
+    </li>
 </ol>
