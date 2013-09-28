@@ -4,15 +4,15 @@ title: "Should medical research be a county government priority?"
 published: true
 ---
 
-
 Where does “translational” medical research fall in Kansas City’s and Jackson County’s list of priorities?
 
 Kansas City and Jackson County have a lot on their plates right now. Consider that: 
 <ul>
-	<li>A $2 billion overhaul of the combined stormwater and wastewater sewer-system is well underway</li>
-	<li>Construction should begin next year on a $100 million downtown streetcar line, to be funded by a special taxing district</li>
-	<li>Commuter rail (which uses existing tracks) or light rail (which doesn’t use existing tracks) is badly needed to keep Kansas City in the top ranks of Midwestern cities.</li>
-	<li>Either a new, single-terminal airport has to be built or the existing three-terminal Kansas City International Airport has to be reconfigured and remodeled.</li>
+	<li>The federally mandated $2 billion overhaul of Kansas City's combined stormwater and wastewater system needs to be completed. (K.C. residents are paying through the nose for that. You've checked your water bill, right?)</li>
+	<li>Construction should begin next year on a $100 million downtown streetcar line, to be funded by a special taxing district.</li>
+	<li>Commuter rail (which uses existing tracks) or light rail (which doesn’t use existing tracks) could move our area ahead by leaps and bounds.</li>
+	<li>Work has not even begun on the $100 million streetcar system, which downtown property owners approved last year.</li> 
+    <li>Either a new, single-terminal airport has to be built or the existing three-terminal Kansas City International Airport has to be reconfigured and remodeled.</li>
 </ul>
 
 <img src="/img/kci.jpg" class="img-responsive" alt="Kansas City International Airport">
