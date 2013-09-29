@@ -55,7 +55,7 @@ The arrangement apparently gained momentum very quickly because, believe it or n
 
 Here’s what the institute’s website proclaims (go to “timeline” tab), sentence for sentence, word for word.
 
-    _In recent years, the regional capacity for innovation has grown significantly. There are now more than 2,000 scientists and greater than $550 million in annual research expenditures by our stakeholder institutions. Add to these statistics the scientists and investments in private sector life sciences companies and the region clearly qualifies as a significant contender as a nationally and globally recognized life sciences center of excellence._
+> _In recent years, the regional capacity for innovation has grown significantly. There are now more than 2,000 scientists and greater than $550 million in annual research expenditures by our stakeholder institutions. Add to these statistics the scientists and investments in private sector life sciences companies and the region clearly qualifies as a significant contender as a nationally and globally recognized life sciences center of excellence._
 
 There it is, straight from the horse’s mouth: The Kansas City area already is meeting the medical-research goals that officials backing the tax proposal sought when they formed the life sciences institute 13 years ago.
 
