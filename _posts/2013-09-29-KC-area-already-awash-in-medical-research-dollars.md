@@ -64,6 +64,6 @@ And, the Kansas City area already is a top medical research center, not only nat
 
 Excuse me, civic leaders, I have two questions:
 
-•	_Why do we need another $40 million to $50 million a year being spent on medical research? 
-•	And even if you think it’s necessary, why in the world should taxpayers pay the freight?_ 
- 
+Why do we need another $40 million to $50 million a year being spent on medical research in this area?
+
+And even if you think it's so important, why in the world should taxpayers apy the freight?
