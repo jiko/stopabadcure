@@ -2,7 +2,6 @@
 published: false
 ---
 
-
 Over the weekend, I made a startling discovery.
 
 I have been convinced all along that the proposed, new half-cent sales tax for “translational medical research” in Jackson County was a terrible proposal.
@@ -56,7 +55,7 @@ The arrangement apparently gained momentum very quickly because, believe it or n
 
 Here’s what the institute’s website proclaims (go to “timeline” tab), sentence for sentence, word for word.
 
-In recent years, the regional capacity for innovation has grown significantly. There are now more than 2,000 scientists and greater than $550 million in annual research expenditures by our stakeholder institutions. Add to these statistics the scientists and investments in private sector life sciences companies and the region clearly qualifies as a significant contender as a nationally and globally recognized life sciences center of excellence. 
+    In recent years, the regional capacity for innovation has grown significantly. There are now more than 2,000 scientists and greater than $550 million in annual research expenditures by our stakeholder institutions. Add to these statistics the scientists and investments in private sector life sciences companies and the region clearly qualifies as a significant contender as a nationally and globally recognized life sciences center of excellence. 
 
 There it is, straight from the horse’s mouth: The Kansas City area already is meeting the medical-research goals that officials backing the tax proposal sought when they formed the life sciences institute 13 years ago.
 
@@ -64,6 +63,8 @@ And, the Kansas City area already is a top medical research center, not only nat
 
 Excuse me, civic leaders, I have two questions:
 
-Why do we need another $40 million to $50 million a year being spent on medical research in this area?
+<ul>
+<li>Why do we need another $40 million to $50 million a year being spent on medical research in this area?</li>
 
-And even if you think it's so important, why in the world should taxpayers apy the freight?
+<li>And even if you think it's so important, why in the world should taxpayers apy the freight?</li>
+</ul>
