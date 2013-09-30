@@ -11,13 +11,16 @@ published: true
   </div>
   <div class="row">
   {% for post in site.tags.hero %}
-    {% if post.url == '/the-august-ambush' %}
-    <div class="col-md-7">
+    {% if post.url == '/how-we-started' %}
+    {% assign col = 'col-md-5' %}
+    {% assign words = '27' %}
     {% else %}
-    <div class="col-md-5">
+    {% assign col = 'col-md-7' %}
+    {% assign words = '32' %}
     {% endif %}
+    <div class="{{ col }}">
       <h2>{{ post.title }}</h2>
-      <p>{{ post.excerpt | strip_html }} &mdash; <a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+      <p>{{ post.content | truncatewords:words | strip_html }} &mdash; <a href="{{ post.url }}">Read more</a></p>
     </div>
   {% endfor %}
   </div>
@@ -25,9 +28,9 @@ published: true
   {% for post in site.posts %}
     {% unless post.tags contains 'hero' %}
     <li>
-      {{ post.date | date: "%b %d, %Y" }} &middot; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%b %d, %Y" }} &middot; <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endunless %}
   {% endfor %}
   </ul>
-  </div>
+</div>

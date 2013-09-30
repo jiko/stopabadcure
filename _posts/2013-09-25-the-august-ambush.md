@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The August Ambush
-tags: hero
 published: true
 ---
 

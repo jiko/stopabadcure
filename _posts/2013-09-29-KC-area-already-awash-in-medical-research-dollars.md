@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+published: true
+title: KC Area Already Awash in Medical Research Dollars
+tags: hero
 ---
 
 Over the weekend, I made a startling discovery.
@@ -10,9 +13,11 @@ But now I’ve found out something truly remarkable:
 
 The tax is not one bit necessary because more than $550 million a year already is being spent on medical research in the Kansas City area.
 
+<img src="/img/bucks.jpg" class="img-responsive" alt="Big Bucks">
+
 It’s true. How do I know it? _Because one of five parties to the “Memorandum of Understanding” that comprises the framework for the tax says so._
 
-**
+***
 
 The three participating institutions that would share about $36 million a year in new tax dollars are **Children’s Mercy Hospital**, **St. Luke’s Hospital** and **UMKC**.
 
@@ -21,6 +26,8 @@ Another party to the agreement is **Jackson County**, which, along with **Kansas
 Few people are familiar with the fifth party to the agreement.
 
 It is called the **Kansas City Area Life Sciences Institute**, a nonprofit organization that the **Civic Council of Greater Kansas City**(consisting of the area’s top business leaders) formed in the early 2000s.
+
+<img src="/img/KCALSI.gif" class="img-responsive" alt="KCALSI">
 
 The institute now is the driving force, along with the civic leaders who conceived it, behind the proposed tax, which would rake in _$40 million to $50 million a year_. 
 
@@ -35,7 +42,7 @@ The life sciences institute’s website (www.kclifesciences.org) says its goal i
 Institute officials entered a “stakeholder” relationship with eight institutions:
 
 - **Children’s Mercy Hospitals and Clinics**
-- **MRIGlobal**(formerly Midwest Research Institute)
+- **MRIGlobal** (formerly Midwest Research Institute)
 - **St. Luke’s Hospital**
 - **The Stowers Institute for Medical Research**
 - **Kansas City University of Medicine and Biosciences** 
@@ -43,7 +50,7 @@ Institute officials entered a “stakeholder” relationship with eight institut
 - **KU Medical Center**
 - **UMKC**
 
-**Kansas State University** and the U**niversity of Missouri–Columbia**became stakeholders in 2005.
+**Kansas State University** and the **University of Missouri–Columbia** became stakeholders in 2005.
 
 (Somewhere along the way, the Stowers Institute apparently dropped out because that institute is no longer listed as a stakeholder.)   
 
