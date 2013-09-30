@@ -8,7 +8,7 @@ I have been convinced all along that the proposed, new half-cent sales tax for �
 
 But now I’ve found out something truly remarkable: 
 
-The tax is not one bit necessary because more than $500 million a year already is being spent on medical research in the Kansas City area.
+The tax is not one bit necessary because more than $550 million a year already is being spent on medical research in the Kansas City area.
 
 It’s true. How do I know it? _Because one of five parties to the “Memorandum of Understanding” that comprises the framework for the tax says so._
 
