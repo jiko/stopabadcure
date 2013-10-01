@@ -52,7 +52,7 @@ Institute officials entered a “stakeholder” relationship with eight institut
 
 **Kansas State University** and the **University of Missouri–Columbia** became stakeholders in 2005.
 
-(Somewhere along the way, the Stowers Institute apparently dropped out because that institute is no longer listed as a stakeholder.)   
+(Somewhere along the way, the Stowers Institute apparently dropped out because that institute is no longer listed as a stakeholder. A Stowers Institute spokesperson declined to comment.)   
 
 ***
 
