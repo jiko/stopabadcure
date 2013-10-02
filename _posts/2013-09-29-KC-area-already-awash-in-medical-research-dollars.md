@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: KC Area Already Awash in Medical Research Dollars
-tags: lead
+tags: null
 ---
 
 Over the weekend, I made a startling discovery.
