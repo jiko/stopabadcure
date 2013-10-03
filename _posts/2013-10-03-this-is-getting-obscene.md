@@ -59,5 +59,5 @@ Here is your updated contribution report for the Committee for Research, Treatme
 **Husch Blackwell** law firm, $10,000;
 **Dr. L. Patrick James**, of the KC Area Life Sciences Institute, $10,000;
 **The Polsinelli** law firm, $10,000;
-**Lockton Companies**, $10,000;
-**Stinson Morrison Hecker** law firm, $7,500;
+**Lockton Companies**, $10,000; and
+**Stinson Morrison Hecker** law firm, $7,500
