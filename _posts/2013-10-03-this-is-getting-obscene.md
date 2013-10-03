@@ -21,11 +21,13 @@ Their goal, I believe, is to fool just enough voters -- with TV ads and feel-goo
 
 Here's a closer look at the money being spent. For the sake of argument, let's say that...
 
-    Let’s say that 50,000 people vote in the Nov. 5 election – about 20,000 in Kansas City and 30,000 in Jackson County outside Kansas City. (This might surprise you but the county has about a third more registered voters than the Kansas City part of the county.)
+<ul>
+<li>Let’s say that 50,000 people vote in the Nov. 5 election – about 20,000 in Kansas City and 30,000 in Jackson County outside Kansas City. (This might surprise you but the county has about a third more registered voters than the Kansas City part of the county.)</li>
 
-    Let’s say that 24,999 people vote for the tax and 25,001 people vote against it. (Wouldn’t that be a bea-u-ti-ful thing?)
+<li>Let’s say that 24,999 people vote for the tax and 25,001 people vote against it. (Wouldn’t that be a bea-u-ti-ful thing?)</li>
 
-    That would mean, based on the $1,357,000 invested so far, that the proponents would have spent about $55 for each “yes” vote.
+<li>That would mean, based on the $1,357,000 invested so far, that the proponents would have spent about $55 for each “yes” vote.</li>
+</ul>
 
 That’s a pretty, pretty penny, penny, as Larry David might say.
 
