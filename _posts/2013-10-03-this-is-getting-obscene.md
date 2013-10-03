@@ -6,19 +6,17 @@ title: This is getting obscene
 
 On Monday, the Civic Council of Greater Kansas City tossed another $400,000 into the $1 million-plus pool of money that is being spent to try to convince Jackson County voters to approve a new half-cent sales tax for medical research.
 
-Under state law, campaign committees must report contributions of $5,000 or more within 48 hours of receipt.
+That brings the Civic Council's total contribution to its campaign committee -- Committee for Research, Treatment and Cures -- to **$600,000**.
 
-Between Aug. 10 and Monday, the Committee for Research, Treatments and Cures  received 19 contributions of $5,000 or more. All but one of the contributions has been at least $10,000.
+And it brings the grand total of contributions to the committee to **$1,357,000**. And Election Day - Nov. 5 - is still more than four weeks out.
 
-The grand total so far? $1,357,000.  
+The biggest pushers behind the proposal are the **Hall family** and the **Hall Family Foundation**. The Halls have long had the most clout with the Civic Council. **Don Hall Jr**., Hallmark Cards c.e.o., has contributed $100,000 personally.
 
-It is puzzling to me why the Civic Council, consisting of the areas top business leaders, is dead set on the taxpayers paying up to $1 billion for their pet project – a significant increase in annual expenditures in an already bloated industry – health care.
+It is puzzling to me why the Civic Council, consisting of the areas top business leaders, is dead set on the taxpayers ponying up $1 billion over 20 years for their pet project. My guess is that after having arm-twisted the County Legislature into putting the measure on the Nov. 5 ballot and now experiencing stiff resistance to their proposal, civic leaders are doubling down. They said initially that they planned on a $1 million campaign. Who knows? Maybe it will go to $2 million.
 
-My guess is that after having arm-twisted the County Legislature into putting the measure on the Nov. 5 ballot and now experiencing stiff resistance to their proposal, civic leaders are throwing down the gauntlet.
+_In any event, losing would be terrible for the Civic Council. After all, they're the kingpins, right?_
 
-Their goal is to fool just enough voters to stick this tax on county residents for the next 20 years, at least. It would raise $40 million to $50 million a year. If a person spent $1,000 a month on taxable items – a very reasonable figure – it would him or her an extra $5 a month.
-
-Not that much for many of us, but think about the poor and people with low and fixed incomes and, particularly, the tens of thousands of very low-income Jackson Countians who were cut out of Medicaid benefits because of our hidebound Missouri General Assembly.
+Their goal, I believe, is to fool just enough voters -- with TV ads and feel-good brochures -- to stick this tax on county residents for the next 20 years, at least. With inflation, it would generate $40 million to $50 million a year.
 
 Going back to the contribution figures, here’s something else that might interest you.
 
@@ -58,4 +56,3 @@ Here is your updated contribution report for the Committee for Research, Treatme
 **The Polsinelli** law firm, $10,000;
 **Lockton Companies**, $10,000;
 **Stinson Morrison Hecker** law firm, $7,500;
-
