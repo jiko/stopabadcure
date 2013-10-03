@@ -41,23 +41,23 @@ No wonder they’re throwing money around like it’s grass seed.
 
 Here is your updated contribution report for the Committee for Research, Treatment and Cures. (Missouri election laws require contributions of $5,000 or more to be reported within 48 hours of receipt. The first full disclosure reports must be filed by Oc.t 15) 
 
-**The Civic Council of Greater Kansas City**, $600,00;
-**Children’s Mercy Hospital**, $100,000;
-**Donald Hall Jr.**, $100,000;
-**Hallmark Global Services**, $100,000;
-**J.E. Dunn Construction**, $100,000;
-**John G. Sherman**, chairman and c.e.o of Inergy L.P., $100,000;
-**Robert Kipp**, former Crown Center Development president, $50,000;
-**Burns and McDonnell**, engineering company, $50,000;
-**KCP&L**, $25,000;
-**Tom McDonnell**, retired DST c.e.o., $25,000;
-**Irvine O. Hockaday Jr**., former Hallmark Cards c.e.o., $20,000;
-**William Gautreaux**, a top Inergy LP officer (see John Sherman), $10,000;
-**Wagstaff & Cartmell** law firm, $10,000;
-**St. Luke’s Foundation**, $10,000;
-**St. Luke’s Health System**, $10,000;
-**Husch Blackwell** law firm, $10,000;
-**Dr. L. Patrick James**, of the KC Area Life Sciences Institute, $10,000;
-**The Polsinelli** law firm, $10,000;
-**Lockton Companies**, $10,000; and
+**The Civic Council of Greater Kansas City**, $600,00
+**Children’s Mercy Hospital**, $100,000
+**Donald Hall Jr.**, $100,000
+**Hallmark Global Services**, $100,000
+**J.E. Dunn Construction**, $100,000
+**John G. Sherman**, chairman and c.e.o of Inergy L.P., $100,000
+**Robert Kipp**, former Crown Center Development president, $50,000
+**Burns and McDonnell**, engineering company, $50,000
+**KCP&L**, $25,000
+**Tom McDonnell**, retired DST c.e.o., $25,000
+**Irvine O. Hockaday Jr**., former Hallmark Cards c.e.o., $20,000
+**William Gautreaux**, a top Inergy LP officer (see John Sherman), $10,000
+**Wagstaff & Cartmell** law firm, $10,000
+**St. Luke’s Foundation**, $10,000
+**St. Luke’s Health System**, $10,000
+**Husch Blackwell** law firm, $10,000
+**Dr. L. Patrick James**, of the KC Area Life Sciences Institute, $10,000
+**The Polsinelli** law firm, $10,000
+**Lockton Companies**, $10,000
 **Stinson Morrison Hecker** law firm, $7,500
