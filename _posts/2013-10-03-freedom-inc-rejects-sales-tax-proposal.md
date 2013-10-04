@@ -4,7 +4,7 @@ layout: post
 tags: lead
 ---
 
-**Freedom Inc**., a powerful African-American political organization that runs up large vote margins in the Kansas City wards where it works, voted unanimously tonight to oppose Jackson County’s proposed half-cent sales tax for  “translational medical research.”
+**Freedom Inc**., a powerful African-American political organization that runs up large vote margins in the Kansas City wards where it works, voted unanimously Thursday night to oppose Jackson County’s proposed half-cent sales tax for  “translational medical research.”
 
 The development was a bitter blow to the hopes of tax proponents, who, earlier this week dumped another $400,000 into their campaign effort, bringing their campaign committee’s total fund raising to nearly $1,4 million.
 
@@ -22,7 +22,7 @@ Curls noted that if Jackson County were to become _“a research mecca, it would
 
 But the financing method needed to be rethought, she said.
 
-Many opponents of the tax contend that the bulk of, if not all of, additional hundreds of millions of dollars for medical research should come from the private sector, such as corporations, foundations and wealthy individuals.
+Many opponents of the tax contend that most, if not all, of additional hundreds of millions of dollars for medical research should come from the private sector, such as corporations, foundations and wealthy individuals.
 
 Proponents have acknowledged that 10 Kansas City area institutions, including **Children’s Mercy Hospital** and the S**towers Institute for Medical Research**, already are spending more than $550 million a year on research. The new tax would raise an additional $40 million to $50 million a year for at least 20 years.       
 
@@ -35,3 +35,7 @@ Another board member said he had heard that the treatments and cures committee, 
 Historically, such groups have made very few inroads against the traditional, powerhouse political organizations. 
 
 Freedom’s strength is on the east side of Kansas City, from Independence Avenue all the way to Grandview.
+
+Earlier this week, the local branch of the NAACP voted to oppose the tax.
+
+The local affiliate of the League of Women Voters was the first organization to come out in opposition.
