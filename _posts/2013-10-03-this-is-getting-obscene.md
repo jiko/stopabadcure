@@ -39,7 +39,7 @@ No wonder they’re throwing money around like it’s grass seed.
 
 *** 
 
-Here is your updated contribution report for the Committee for Research, Treatment and Cures. (Missouri election laws require contributions of $5,000 or more to be reported within 48 hours of receipt. The first full disclosure reports must be filed by Oc.t 15) 
+Here is your updated contribution report for the Committee for Research, Treatment and Cures. (Missouri election laws require contributions of $5,000 or more to be reported within 48 hours of receipt. The first full disclosure reports must be filed by Oct. 15) 
 
 - **The Civic Council of Greater Kansas City**, $600,00
 - **Children’s Mercy Hospital**, $100,000
