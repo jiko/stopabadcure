@@ -12,7 +12,7 @@ It was also a seminal moment in the history of 51-year-old Freedom Inc., whose s
 
 With the **Committee for Research, Treatments and Cures** – the committee working for the tax – dangling a reported $200,000 in front of Freedom to promote the tax measure leading up to the Nov. 5 election, Freedom’s board stood on principal and turned its back on the money.
 
-Asked about the deciding factor in the decision, State Sen. **Kiki Curls**, a Freedom board member and Kansas City Democrat__, said:
+Asked about the deciding factor in the decision, State Sen. **Kiki Curls**, a Freedom board member and Kansas City Democrat, said:
 
 “Feedback from the community. We found very few people who supported the tax.”
 
