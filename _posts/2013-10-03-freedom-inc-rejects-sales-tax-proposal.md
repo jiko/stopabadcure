@@ -36,6 +36,6 @@ Historically, such groups have made very few inroads against the traditional, po
 
 Freedom’s strength is on the east side of Kansas City, from Independence Avenue all the way to Grandview.
 
-Earlier this week, the local branch of the NAACP voted to oppose the tax.
+Earlier this week, the local branch of the **NAACP** voted to oppose the tax.
 
-The local affiliate of the League of Women Voters was the first organization to come out in opposition.
+The local affiliate of the **League of Women Voters** was the first organization to come out in opposition.
