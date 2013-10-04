@@ -1,7 +1,7 @@
 name: The Committee to Stop a Bad Cure
 title: Committee to Stop a Bad Cure
 description: Vote NO in Jackson County on Nov. 5th
-excerpt: 46
+excerpt: 32
 permalink: /:title
 markdown: redcarpet
 redcarpet:

@@ -14,7 +14,7 @@
 html, body { height: 100%; }
 
 body {
-  background: #00000c url('/img/stopsign.svg') center top no-repeat;
+  background: #00000c url('/img/stopsign.svg') center top no-repeat fixed;
   font: 12pt Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;

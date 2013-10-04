@@ -20,7 +20,7 @@ published: true
     {% endif %}
     <div class="{{ col }}">
       <h2>{{ post.title }}</h2>
-      <p>{{ post.content | truncatewords:words | strip_html }} &mdash; <a href="{{ post.url }}">Read more</a></p>
+      <p>{{ post.content | strip_html | truncatewords:words }} &mdash; <a href="{{ post.url }}">Read more</a></p>
     </div>
   {% endfor %}
   </div>
