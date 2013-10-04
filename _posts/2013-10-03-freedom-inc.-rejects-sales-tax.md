@@ -6,7 +6,7 @@ tags: lead
 
 Freedom Inc., a powerful African-American political organization that runs up large vote margins in the Kansas City wards where it works, voted unanimously tonight to oppose Jackson County’s proposed half-cent sales tax for  “translational medical research.”
 
-The development was a bitter blow to the hopes of tax proponents, who, earlier this week dumped another $400,000 into their campaign effort, bringing their campaign committee’s total fund raising to $1,357,000.<>
+The development was a bitter blow to the hopes of tax proponents, who, earlier this week dumped another $400,000 into their campaign effort, bringing their campaign committee’s total fund raising to $1,357,000.
 
 It was also a seminal moment in the history of 51-year-old Freedom Inc., whose slogan is _“No permanent friends, no permanent enemies, just permanent interests.”_
 
