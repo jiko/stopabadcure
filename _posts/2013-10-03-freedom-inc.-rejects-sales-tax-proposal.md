@@ -14,7 +14,7 @@ With the **Committee for Research, Treatments and Cures** – the committee work
 
 Asked about the deciding factor in the decision, State Sen. **Kiki Curls**, a Freedom board member and Kansas City Democrat, said:
 
-“Feedback from the community. We found very few people who supported the tax.”
+_“Feedback from the community. We found very few people who supported the tax.”_
 
 She added that over the last five years, central city residents have lost, not gained, community services and that if there was to be a tax increase,_“it would better be put to use for basic services”_ than medical research.
 
