@@ -4,7 +4,7 @@ layout: post
 title: About the Committee
 ---
 
-Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 29 members. The most recent additions were Edward "Gomer" Moody and Joe MacCracken. Both joined on Saturday, Oct. 5.
+Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 29 members. The most recent additions were **Edward "Gomer" Moody** and **Joe MacCracken**. Both joined on Saturday, Oct. 5.
 
 Ed is the former owner of the Gomer's liquor store chain. He ran unsuccessfully for KC mayor at least once.
 
