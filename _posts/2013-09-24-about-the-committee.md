@@ -4,7 +4,13 @@ layout: post
 title: About the Committee
 ---
 
-The Stop a Bad Cure Committee currently has 27 members, including me. All are Jackson County residents. Here are the members, listed alphabetically. 
+Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 29 members. The most recent additions were Edward "Gomer" Moody and Joe MacCracken. Both joined on Saturday, Oct. 5.
+
+Ed is the former owner of the Gomer's liquor store chain. He ran unsuccessfully for KC mayor at least once.
+
+Joe is a former bar owner, actor and plumbing supply salesman. He now works as a handyman and does a lot of work for Minsky's, Osteria Il Centro and Eggcetera, a cluster of restaurants at 51st and Main. 
+
+All members of the committee are Jackson County residents. 
 
 - **Joe Arthur**, Lee’s Summit
 - **Richard Arthur**, Lee’s Summit
@@ -22,7 +28,9 @@ The Stop a Bad Cure Committee currently has 27 members, including me. All are Ja
 - **Mary Leonard**, Kansas City
 - **Bob Letterman,** Lee's Summit
 - **Larry Luper**, Independence
+_ **Joe MacCracken**, Kansas City
 - **Tom Minges**, Kansas City
+- **Edward "Gomer" Moody**, Kansas City 
 - **Pat Russell**, Kansas City
 - **Rev. Pat Rush**, Kansas City
 - **Ruthie Russell**, Kansas City
