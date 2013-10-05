@@ -28,7 +28,7 @@ All members of the committee are Jackson County residents.
 - **Mary Leonard**, Kansas City
 - **Bob Letterman,** Lee's Summit
 - **Larry Luper**, Independence
-_ **Joe MacCracken**, Kansas City
+- **Joe MacCracken**, Kansas City
 - **Tom Minges**, Kansas City
 - **Edward "Gomer" Moody**, Kansas City 
 - **Pat Russell**, Kansas City
