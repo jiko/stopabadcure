@@ -4,7 +4,7 @@ layout: post
 title: About the Committee
 ---
 
-Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 30 members. The most recent additions were **Clinton Adams,** **Edward "Gomer" Moody** and **Joe MacCracken**. All three joined on Saturday, Oct. 5.
+Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 30 members. The most recent additions were **Clinton Adams Jr.,** **Edward "Gomer" Moody** and **Joe MacCracken**. All three joined on Saturday, Oct. 5.
 
 Clinton is a lawyer and a civic and political activist. He is the attorney for the political group Freedom Inc., whose board of directors recently voted to oppose the proposed sales-tax increase. Clinton is a Freedom board member.   
 
