@@ -2,7 +2,7 @@
 title: Freedom Inc. Rejects Sales Tax Proposal
 published: true
 layout: post
-tags: lead
+tags: null
 ---
 
 **Freedom Inc**., a powerful African-American political organization that runs up large vote margins in the Kansas City wards where it works, voted unanimously Thursday night to oppose Jackson County’s proposed half-cent sales tax for  “translational medical research.”
