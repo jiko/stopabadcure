@@ -6,9 +6,9 @@ title: This is getting obscene
 
 On Monday, Sept. 30, the Civic Council of Greater Kansas City tossed another $400,000 into the $1 million-plus pool of money that is being spent to try to convince Jackson County voters to approve a new half-cent sales tax for medical research.
 
-That brings the Civic Council's total contribution to its campaign committee -- Committee for Research, Treatment and Cures -- to **$600,000**.
+That brought the Civic Council's total contribution to its campaign committee -- Committee for Research, Treatment and Cures -- to **$600,000**.
 
-And it brings the grand total of contributions to the committee to **$1,357,000**. And Election Day - Nov. 5 - is still more than four weeks out.
+And it brought the grand total of contributions to the committee to **$1,357,000**. And Election Day - Nov. 5 - is still more than four weeks out.
 
 The biggest pushers behind the proposal are the **Hall family** and the **Hall Family Foundation**. The Halls have long had the most clout with the Civic Council. **Don Hall Jr**., Hallmark Cards c.e.o., has contributed $100,000 personally.
 
