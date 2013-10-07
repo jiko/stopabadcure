@@ -23,16 +23,16 @@ Following is a list of the sales tax rates in the 16 incorporated areas of Jacks
 - **Independence – 7.975**
 - **Grain Valley – 7.975**
 - **Blue Springs – 7.975**
-Grandview – 7.975
-Oak Grove – 7.975
-Lee’s Summit – 7.725
-Unity Village – 7.725
-Lone Jack – 7.475
-Buckner – 7.475
-Greenwood – 7.475
-Sugar Creek – 7.475
-Lake Lotawana – 6.725
-Levasy – 6.475
-Lake Tapawingo – 5.975
+- **Grandview – 7.975**
+- **Oak Grove – 7.975**
+- **Lee’s Summit – 7.725**
+- **Unity Village – 7.725**
+- **Lone Jack – 7.475**
+- **Buckner – 7.475**
+- **Greenwood – 7.475**
+- **Sugar Creek – 7.475**
+- **Lake Lotawana – 6.725**
+- **Levasy – 6.475**
+- **Lake Tapawingo – 5.975**__
 
-Let’s keep those rates where they are, Jackson County voters.
+_Let’s keep those rates right where they are, Jackson County voters._
