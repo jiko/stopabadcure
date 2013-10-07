@@ -5,7 +5,7 @@ tags: lead
 published: true
 ---
 
-The seeds for committee formation were sewn Aug. 26, when county legislators voted to put a proposed new half-cent sales tax on Nov. 5 ballot.   
+The seeds for committee formation were sown Aug. 26, when county legislators voted to put a proposed new half-cent sales tax on Nov. 5 ballot.   
 
 The $40 million to $50 million a year in proceeds (for a minimum of 20 years) was to go for "translational medical research" and building a Translational Medicine Institute on Hospital Hill. 
 
