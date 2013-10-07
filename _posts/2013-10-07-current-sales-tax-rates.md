@@ -4,7 +4,7 @@ layout: post
 tags: lead
 ---
 
-If the **Civic Council of Greater Kansas City** – an organization consisting of the biggest of the big shots – gets its way, the sales tax on non-food products in most of Kansas City would rise from **8.35 percent** to **8.85 percent**.
+If the **Civic Council of Greater Kansas City** – whose members are the biggest of the big shots – gets its way, the sales tax on non-food products in most of Kansas City would rise from **8.35 percent** to **8.85 percent**.
 
 (On groceries, it would go from 5.35 to 5.85 percent.)
 
