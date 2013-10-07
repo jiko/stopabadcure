@@ -2,10 +2,9 @@
 published: true
 layout: post
 title: This is getting obscene
- 
 ---
 
-On Monday, the Civic Council of Greater Kansas City tossed another $400,000 into the $1 million-plus pool of money that is being spent to try to convince Jackson County voters to approve a new half-cent sales tax for medical research.
+On Monday, Sept. 30, the Civic Council of Greater Kansas City tossed another $400,000 into the $1 million-plus pool of money that is being spent to try to convince Jackson County voters to approve a new half-cent sales tax for medical research.
 
 That brings the Civic Council's total contribution to its campaign committee -- Committee for Research, Treatment and Cures -- to **$600,000**.
 
