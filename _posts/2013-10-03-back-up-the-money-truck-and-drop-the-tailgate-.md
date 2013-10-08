@@ -1,8 +1,4 @@
----
-published: true
----
 
----
 published: true
 layout: post
 
