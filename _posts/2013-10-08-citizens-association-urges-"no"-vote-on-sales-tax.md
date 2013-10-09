@@ -21,7 +21,7 @@ Members of the board of directors said the board voted overwhelmingly to oppose 
 A news release from the Citizens Association said:
 <ul>
 </p>
-While well intended and thoughtful, local sales taxes are regressive, are getting too high in our community, and in any event should be used carefully to provide services that only government can provide, for example, basic local government services...In addition, the community would benefit from having more time to consider this relatively complicated proposal.</p>
+_While well intended and thoughtful, local sales taxes are regressive, are getting too high in our community, and in any event should be used carefully to provide services that only government can provide, for example, basic local government services...In addition, the community would benefit from having more time to consider this relatively complicated proposal._</p>
 </ul>
 
 Proponents of  the tax -- primarily the biggest business and law-firm leaders -- dropped the tax proposal on the **Jackson County Legislature** three weeks before the deadline for the legislature to put a measure on the Nov. 5 ballot. After being heavily lobbied by the monied set, the legislature voted 7-2 to put Question 1 on the ballot.
