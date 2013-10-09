@@ -28,6 +28,9 @@ Proponents of  the tax -- primarily the biggest business and law-firm leaders --
 
 ...Before making its decision Tuesday night, the Citizens' board heard from representatives of both sides of the issue.
 
+<img src="/img/WayneCarter.jpg" class="img-responsive" alt="Wayne O. Carter speaks">
+<p class="caption">Dr. Wayne O. Carter spoke Tuesday night in favor of a half-cent sales tax for "translational medical research." Standing to the side was Pete Levi, who also spoke on behalf of proponents.</p>
+
 Representing the Committee for Research, Treatments and Cures were **former Chamber of Commerce President Pete Levi** and **Dr. Wayne O. Carter, president of the Kansas City Area Life Sciences Institute,** which is a driving force behind the proposed Translational Medicine Institute of Jackson County.
 
 Representing the opponents were **Linda Vogel Smith** of the League of Women Voters, **Marcus Leach** of Citizens for Responsible Research and me. As you probably know, I am treasurer of the **Committee to Stop a Bad Cure**, which sponsors this website.
