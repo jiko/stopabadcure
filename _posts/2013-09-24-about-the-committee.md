@@ -4,15 +4,7 @@ layout: post
 title: About the Committee
 ---
 
-Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 30 members. The most recent additions were **Clinton Adams Jr.,** **Edward "Gomer" Moody** and **Joe MacCracken**. All three joined on Saturday, Oct. 5.
-
-Clinton is a lawyer and a civic and political activist. He is the attorney for the political group Freedom Inc., whose board of directors recently voted to oppose the proposed sales-tax increase. Clinton is a Freedom board member.   
-
-Ed is the former owner of the Gomer's liquor store chain. He ran unsuccessfully for KC mayor at least once.
-
-Joe is a former bar owner, actor and plumbing supply salesman. He now works as a handyman and does a lot of work for Minsky's, Osteria Il Centro and Eggcetera, a cluster of restaurants at 51st and Main.
-
-Welcome aboard, gentlemen!
+Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 31 members. The most recent addition was **Tom Ortiz,** Independence, who joined us Oct.10. Tom is retired from Tension Envelopes.  
 
 (All members of the committee are Jackson County residents.) 
 
@@ -36,6 +28,7 @@ Welcome aboard, gentlemen!
 - **Joe MacCracken**, Kansas City
 - **Tom Minges**, Kansas City
 - **Edward "Gomer" Moody**, Kansas City 
+- **Tom Ortiz**, Independence
 - **Pat Russell**, Kansas City
 - **Rev. Pat Rush**, Kansas City
 - **Ruthie Russell**, Kansas City
