@@ -6,7 +6,7 @@ tags: lead
 
 The **Committee for Research, Treatments and Cures** must be getting used to rejection by now.
 
-Tonight, Tuesday, Oct. 8, the **Citizens Association**, a non-partisan, Kansas City political organization followed the lead of several other political and civic organizations and recommended that citizens vote against the proposed half-cent sales tax for "translational medical research."
+On Tuesday, Oct. 8, the **Citizens Association**, a non-partisan, Kansas City political organization followed the lead of several other political and civic organizations and recommended that citizens vote against the proposed half-cent sales tax for "translational medical research."
 
 <img src="/img/WayneCarter.jpg" class="img-responsive" alt="Wayne O. Carter speaks">
 <p class="caption">Dr. Wayne O. Carter spoke Tuesday night in favor of a half-cent sales tax for "translational medical research." Standing to the side was Pete Levi, who also spoke on behalf of proponents.</p>
