@@ -40,4 +40,4 @@ The business leaders knew it would be difficult to sell the public on the tax, a
 
 The proponents probably will spend close to $2 million on a TV-heavy campaign.
 
-Don't let yourself be fooled, fellow Jackson Countians; let's fight our way out of this ambush. 
+Don't let 'em fool you, fellow Jackson Countians; let's fight our way out of this ambush. 
