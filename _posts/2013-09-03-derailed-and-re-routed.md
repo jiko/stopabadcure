@@ -12,7 +12,7 @@ Construction would have been financed partly by a one-cent sales-tax proposal, w
 
 Consider what ensued:
 <ul>
-	<li>In March, the commuter rail proposal fell apart after Kansas City Southern Railroad reneged on an earlier agreement to allow commuter trains to run on its tracks from Blue Springs to near Third Street and Grand Avenue. Kansas City Southern, probably pushed by Hallmark,which owns CrownCenter, said the rail system should end at CrownCenter.</li>
+	<li>In March, the commuter rail proposal fell apart after <strong>Kansas City Southern Railroad</strong> reneged on an earlier agreement to allow commuter trains to run on its tracks from Blue Springs to near Third Street and Grand Avenue. Kansas City Southern, probably pushed by Hallmark, which owns CrownCenter, said the rail system should end at Crown Center.</li>
 </ul>
 <ul>
 	<li>Stymied, Sanders pulled back on commuter rail.</li>
