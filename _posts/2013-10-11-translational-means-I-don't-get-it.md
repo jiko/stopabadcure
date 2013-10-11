@@ -24,9 +24,9 @@ Actually, I’m doing the proponents a big favor here because it should be their
 
 Here’s what a six-page “Operational and Governance Overview” says:
 
-    The Translational Medicine Institute of Jackson County…is proposed to be a world-class translational medicine research and development organization that would bridge the gap between basic research discoveries and clinical applications.
+    _The Translational Medicine Institute of Jackson County…is proposed to be a world-class translational medicine research and development organization that would bridge the gap between basic research discoveries and clinical applications._
     	
-    The Institute will be a multidisciplinary operating organization…that would focus on translational medical research to accelerate treatments and cures.
+    _The Institute will be a multidisciplinary operating organization…that would focus on translational medical research to accelerate treatments and cures.
       
     Within the first 10 years, the Institute is projected to help create employments for more than 200 scientists, as well as technical and scientific staff, who will share extensive common services, equipment and intellect.
 
