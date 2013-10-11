@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 tgags: lead
 ---
@@ -38,4 +38,4 @@ So, what it comes down to, obviously, is trickle-down economics, where lower-inc
 
 Those of who have been around a while know how well that works.
 
-All in all, it can be translated this way: Bad deal for taxpayers.  
+All in all, it can be translated this way: Bad deal for taxpayers.
