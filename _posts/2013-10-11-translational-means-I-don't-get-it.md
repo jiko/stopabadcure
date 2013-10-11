@@ -6,7 +6,7 @@ tags: lead
 
 It was Aug. 8 when area residents first learned of the <strong>Civic Council of Greater Kansas City’s</strong> plan for a new half-cent, sales tax to benefit “translational medical research.”
 
-Until that day, when I read about the plan on the front page of <strong>The Kansas City Star</em>, I had never heard the word “translational” applied to medical research. 
+Until that day, when I read about the plan on the front page of <strong>The Kansas City Star</strong>, I had never heard the word “translational” applied to medical research. 
 
 The relative haziness of the term -- I’ve heard a couple of people refer to it as “transactional” -- is proving to be a headache for proponents of the tax, which would force Jackson County taxpayers to fork over $40 million to $50 million a year for 20 years. 
 
