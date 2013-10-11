@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-tags: lead
 ---
 
 The **Committee for Research, Treatments and Cures** must be getting used to rejection by now.
