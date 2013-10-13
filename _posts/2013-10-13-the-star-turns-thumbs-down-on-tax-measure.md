@@ -16,7 +16,7 @@ The editorial, probably written by chief political editorial writer **Yael Abouh
 
 The editorial said, in part:
 
-    "An extra half-cent sales tax, raising $40 million annually for the next 20 years, levied on the second poorest county in the area (after Wyandotte) puts an unfair, regressive burden on a limited slice of the region in search of national advances."
+    An extra half-cent sales tax, raising $40 million annually for the next 20 years, levied on the second poorest county in the area (after Wyandotte) puts an unfair, regressive burden on a limited slice of the region in search of national advances.
 
 The editorial noted that 10 Kansas City health-care institutions _"already invest million of dollars in research annually and can claim 2,000 scientists among them."_
 
