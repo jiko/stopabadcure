@@ -2,7 +2,7 @@
 layout: post
 tags: lead
 published: true
-title: Tax proponents' sales-tax pitch lacks passion
+title: Tax proponents' pitch lacks passion
 ---
 
 On Monday night, Oct. 14, I listened, for the fourth time in the last few three weeks, to proponents of the half-cent, medical-research sales tax make their sales pitch at a public meeting.
