@@ -6,8 +6,6 @@ published: true
 
 In early August, the <em>Civic Council of Greater Kansas City</em> dropped on the <em>Jackson County Legislature</em>, and the public, a plan for a half-cent sales-tax increase that would extract from county residents $40 million to $50 million a year for something called “translational medical research."
 
-<img src="/img/ambushphoto.jpg" class="img-responsive" alt="Bonny and Clyde">
-
 The tax would last 20 years, initially, and over that time would cost taxpayers _$800 million to $1 billion_, with inflation. 
 
 The Civic Council — consisting primarily of chief executive officers of the areas biggest companies and leaders of the city's top law firms — used its financial and political muscle to coerce the nine-member Legislature to authorize a Nov. 5 special election. 
