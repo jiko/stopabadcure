@@ -41,6 +41,8 @@ _(I'm not sure one person among 50 or six on hand tonight was in favor of the ta
 
 ...Yes, this is a David and Goliath/pawn-against-king situation.
 
+<img src="/img/pawn.jpg" class="img-responsive" alt="Pawn vs King">
+
 But our slingshot-launched pellets are opening big holes in Goliath's flimsy armor, and they're starting to take their toll.
 
 ...Wouldn't it be great to see arrogance and entitlement brought crashing to the ground?
