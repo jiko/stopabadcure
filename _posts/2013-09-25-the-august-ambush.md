@@ -8,7 +8,7 @@ In early August, the <em>Civic Council of Greater Kansas City</em> dropped on th
 
 The tax would last 20 years, initially, and over that time would cost taxpayers _$800 million to $1 billion_, with inflation. 
 
-The Civic Council — consisting primarily of chief executive officers of the areas biggest companies and leaders of the city's top law firms — used its financial and political muscle to force the nine-member Legislature to authorize a Nov. 5 special election. 
+The Civic Council — consisting primarily of chief executive officers of the areas biggest companies and leaders of the city's top law firms — used its financial and political muscle to coerce the nine-member Legislature to authorize a Nov. 5 special election. 
 
 <em>Jackson County Question 1</em> will be the only issue on the ballot countywide, and it will cost taxpayers $1 million _just to conduct the election_.
 
