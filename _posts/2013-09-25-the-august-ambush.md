@@ -6,6 +6,8 @@ published: true
 
 In early August, the <em>Civic Council of Greater Kansas City</em> dropped on the <em>Jackson County Legislature</em>, and the public, a plan for a half-cent sales-tax increase that would extract from county residents $40 million to $50 million a year for something called “translational medical research."
 
+<img src="/img/ambushphoto.jpg" class="img-responsive" alt="Bonny and Clyde">
+
 The tax would last 20 years, initially, and over that time would cost taxpayers _$800 million to $1 billion_, with inflation. 
 
 The Civic Council — consisting primarily of chief executive officers of the areas biggest companies and leaders of the city's top law firms — used its financial and political muscle to coerce the nine-member Legislature to authorize a Nov. 5 special election. 
@@ -13,10 +15,10 @@ The Civic Council — consisting primarily of chief executive officers of the a
 <em>Jackson County Question 1</em> will be the only issue on the ballot countywide, and it will cost taxpayers $1 million _just to conduct the election_.
 
 Very curiously, the Civic Council lowered the boom on the Legislature less than three weeks before the Aug. 27 deadline for putting a measure on the ballot.
+
+<img src="/img/Fleece.jpg" class="img-responsive" alt="$40M fleece job">
  
 At least one legislator, <strong>Fred Arbanas</strong>, said he learned about the proposal by reading an Aug. 8 story about it in <em>The Kansas City Star</em>.
-
-<img src="/img/ambushphoto.jpg" class="img-responsive" alt="Bonny and Clyde">
 
 Several legislators privately grumbled about the rush job, but the Civic Council turned the wrench, and on Aug. 26, the Legislature voted 7-2 to place the measure on the ballot.
 
@@ -31,7 +33,6 @@ In an interview later, Spence, who lives in Lee’s Summit, also said the measur
 The other legislator who voted “no” was legislative chairman **Greg Grounds** of Blue Springs, where a half-cent sales tax for parks is also on the Nov. 5 ballot. Grounds got more pressure from his constituents than he did from civic leaders and ended up voting against the measure, even though he initially was one of its sponsors!   
 
 The big question in all this is: _Why did the Civic Council not show its cards until early August?_ 
-
 It’s anybody’s guess…Here’s an educated one:
 
 The Civic Council has nurtured a crush on an extravagant medical-research program for more than a decade. Instead of trying to raise the funds privately, the Civic Council decided to take the default route -- _let the taxpayers foot the bill._
