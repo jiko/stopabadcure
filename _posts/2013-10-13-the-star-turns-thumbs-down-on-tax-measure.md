@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-tags: lead
 ---
 
 **The Kansas City Star** has delivered a sledgehammer blow to the prospects for Jackson County's proposed half-cent sales tax for "translational medical research." 
