@@ -21,7 +21,7 @@ I have received four deceptive flyers promoting Question 1. Where are the words 
 
 The committee pushing for passage of Question 1 seems to be working from the playbook of that shameless plutocrat, the late Leona Helmsley: _“Let the little people pay.”_
 
-Catherine Morris, Kansas City
+**Catherine Morris**, Kansas City
 
 **
 
@@ -35,7 +35,7 @@ It seems to me this risky enterprise is more appropriately funded by the private
 
 Does anyone remember Solyndra? Leave high risk to the private sector and forget the sales-tax increase.
 
-Paul Cox, Kansas City
+**Paul Cox**, Kansas City
 
 
 
