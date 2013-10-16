@@ -9,8 +9,6 @@ Until that day, when I read about the plan on the front page of <strong>The Kans
 
 The relative haziness of the term -- I’ve heard a couple of people refer to it as “transactional” -- is proving to be a headache for proponents of the tax, which would force Jackson County taxpayers to fork over $40 million to $50 million a year for 20 years. 
 
-<img src="/img/fleece23.jpg" class="img-responsive" alt="Jackson County doesn't even know what itmeans">
-
 The relative obscurity of the term is one reason that the Civic Council (Kansas City’s top business leaders) should not have dropped this proposal on the public with so little warning.
 
 Civic leaders brought the proposal to the <strong>Jackson County Legislature</strong> about three weeks before the deadline to put a measure on the Nov. 5 ballot.
