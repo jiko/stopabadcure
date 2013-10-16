@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Letters to the Editor
-published: true
+published: false
 ---
 
 Two recent Letters to the Editor page of The Kansas City Star have made excellent points about the proposed “translational medical research” tax that Jackson Countians will approve or reject on Nov. 5. 
