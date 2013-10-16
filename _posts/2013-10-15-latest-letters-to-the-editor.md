@@ -3,7 +3,7 @@ layout: post
 published: true
 ---
 
-Here are letters to the editor that ran in **The Kansas City Star** on Oct. 5 (letter one) and Oct. 15 (letter two).
+Here are letters to the editor that ran in **The Kansas City Star** on Oct. 15 (letter one) and Oct. 5 (letter two).
 
 **
 
