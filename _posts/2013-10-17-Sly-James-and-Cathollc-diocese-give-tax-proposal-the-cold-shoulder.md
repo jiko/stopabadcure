@@ -16,13 +16,15 @@ The post went on to say that taking $800 million from Jackson County taxpayers (
 
 **
 
-The three mayors who joined James in witholding their support for Jackson County Question 1 were  
+The three mayors who joined James in witholding their support for Jackson County Question 1 were Lee’s Summit Mayor Randy Rhoads, Blue Springs Mayor Carson Ross and Raytown Mayor David Bower. They told Abouhalkah they were neutral and would neither support or oppose the tax. 
+
+Abouhalkah said that Independence Mayor Don Reimal did not respond to interview requests but that he -- Abouhalkah -- understood Reimal held the same stance as the other mayors. 
 
 Regarding James, you might think that a "non-endorsement" is not important, but it is very much so.
 
 Listen to the official comment from the mayor’s office:
 
-“Mayor James is supportive of the broad concept of translational medicine but at this time is not taking a position on this particular ballot question.”
+_“Mayor James is supportive of the broad concept of translational medicine but at this time is not taking a position on this particular ballot question.”_
 
 Reading between the lines, I interpret that to say, "This particular ballot question is not the way to go!"
 
@@ -36,8 +38,8 @@ Voters approved that sales tax, giving James a big victory.
 
 I learned just last night from an irrefutable source that before the Civic Council presented the proposal to the County Legislature, the civic leaders shopped their proposal to Mayor James and that he said he couldn't support it.
 
-No wonder...with several higher, unfunded priorities on the city's plate, incuding renovation of KCI, separating the combined storm water and wastewater sewer system, and building the $100 million streetcar system downtown.
+No wonder...with other pressing issues on the city's plate, incuding renovation of KCI, separating the combined storm water and wastewater sewer system, and building the $100 million streetcar system downtown.
 
-That's when the Civic Council took its extravagant and risky plan to the county, selling it well enough to convince the County Legislature to put it on the ballot. Now, the Civic Council is trying to take us county residents for a ride.
+Rebuffed by James, the Civic Council took its extravagant and risky plan to the county, selling it well enough to convince the County Legislature to put it on the ballot. Now, the Civic Council is trying to take us county residents for a ride.
 
-Fortunately for county residents, a veritable mountain of organized opposition is developing, and the Civc Council's expensive campaign could very well end up falling flat.
+Fortunately for county residents, a veritable mountain of organized opposition is developing, and the Civc Council's $1.5 million to $2 million campaign could very well end up falling flat.
