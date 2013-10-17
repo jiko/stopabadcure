@@ -36,6 +36,8 @@ Last year, the Civic Council refused to endorse a proposed half-cent sales tax f
 
 Voters approved that sales tax, giving James a big victory.
 
+**
+
 I learned just last night from an irrefutable source that before the Civic Council presented the proposal to the County Legislature, the civic leaders shopped their proposal to Mayor James and that he said he couldn't support it.
 
 No wonder...with other pressing issues on the city's plate, incuding renovation of KCI, separating the combined storm water and wastewater sewer system, and building the $100 million streetcar system downtown.
