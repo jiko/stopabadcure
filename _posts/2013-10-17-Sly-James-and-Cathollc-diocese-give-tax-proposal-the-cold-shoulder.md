@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: lead
-published: false
+published: true
 ---
 
 Mayor Sly James and several three other mayors in Jackson County cities refused on Wednesday, Oct. 16, to endorse the county's proposed half-cent sales-tax for "translational medical research."
