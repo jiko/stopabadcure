@@ -1,6 +1,5 @@
 ---
 layout: post
-tags: lead
 published: true
 title: Tax proponents' pitch lacks passion
 ---
