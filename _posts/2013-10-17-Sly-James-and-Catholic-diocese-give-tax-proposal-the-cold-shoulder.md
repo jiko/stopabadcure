@@ -4,11 +4,11 @@ tags: lead
 published: true
 ---
 
-Mayor Sly James and several three other mayors in Jackson County cities refused on Wednesday, Oct. 16, to endorse the county's proposed half-cent sales-tax for "translational medical research."
+Kansas City Mayor **Sly James** and several three other mayors in Jackson County cities refused on Wednesday, Oct. 16, to endorse the county's proposed half-cent sales-tax for "translational medical research."
 
 **Yael Abouhalkah** of The Star reported the news in an online story Wednesday morning.
 
-On Wednesday afternoon, the Catholic Diocese of Kansas City-St. Joseph came out flatly against the tax, which will be voted on Nov. 5.
+On Wednesday afternoon, the **Catholic Diocese of Kansas City-St. Joseph** came out flatly against the tax, which will be voted on Nov. 5.
 
 A post on the diocesan website said that developing "next generation medicine leading to cures for the people of the world is an ambitious and worthy goal, which should not be paid for by a regressive tax on the citizens of one county in a single state."
 
@@ -16,9 +16,9 @@ The post went on to say that taking $800 million from Jackson County taxpayers (
 
 **
 
-The three mayors who joined James in witholding their support for Jackson County Question 1 were Lee’s Summit Mayor Randy Rhoads, Blue Springs Mayor Carson Ross and Raytown Mayor David Bower. They told Abouhalkah they were neutral and would neither support or oppose the tax. 
+The three mayors who joined James in witholding their support for **Jackson County Question 1** were Lee’s Summit Mayor **Randy Rhoads**, Blue Springs Mayor **Carson Ross** and Raytown Mayor **David Bower**. They told Abouhalkah they were neutral and would neither support or oppose the tax. 
 
-Abouhalkah said that Independence Mayor Don Reimal did not respond to interview requests but that he -- Abouhalkah -- understood Reimal held the same stance as the other mayors. 
+Abouhalkah said that Independence Mayor **Don Reimal** did not respond to interview requests but that he -- Abouhalkah -- understood Reimal held the same stance as the other mayors. 
 
 Regarding James, you might think that a "non-endorsement" is not important, but it is very much so.
 
@@ -42,4 +42,4 @@ No wonder...with other pressing issues on the city's plate, incuding renovation 
 
 Rebuffed by James, the Civic Council took its extravagant and risky plan to the county, selling it well enough to convince the County Legislature to put it on the ballot. Now, the Civic Council is trying to take us county residents for a ride.
 
-Fortunately for county residents, a veritable mountain of organized opposition is developing, and the Civc Council's $1.5 million to $2 million campaign could very well end up falling flat.
+Fortunately, a veritable mountain of organized opposition is developing, and the Civc Council's $1.5 million to $2 million campaign could very well end up falling flat.
