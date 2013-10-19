@@ -5,7 +5,7 @@ title: KC Area Already Awash in Medical Research Dollars
 tags: null
 ---
 
-Over the weekend, I made a startling discovery.
+Recently, I made startling discovery.
 
 I have been convinced all along that the proposed, new half-cent sales tax for “translational medical research” in Jackson County was a terrible proposal.
 
