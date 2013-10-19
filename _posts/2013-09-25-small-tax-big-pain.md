@@ -6,7 +6,7 @@ title: "Small Tax, Big Pain"
 
 <img src="/img/shoppinglist.jpg" class="img-responsive" alt="Shopping List">
 
-The image above does not contain clues to the whereabouts of buried treasure. It's just a shopping list. I found it earlier this week in the parking lot of a Hy-Vee store.
+The image above does not contain clues to the whereabouts of buried treasure. It's just a shopping list. I found it recently in the parking lot of a Hy-Vee store.
 
 I picked it up, with the intention of throwing it away. But then I looked at it and realized that it was the list of a person who is either very tight fisted or, more likely, really watching their spending because every dollar is precious.
 
