@@ -5,7 +5,7 @@ layout: post
 tags: null
 ---
 
-**Freedom Inc**., a powerful African-American political organization that runs up large vote margins in the Kansas City wards where it works, voted unanimously Thursday night to oppose Jackson County’s proposed half-cent sales tax for  “translational medical research.”
+**Freedom Inc**., a powerful African-American political organization that runs up large vote margins in the Kansas City wards where it works, voted unanimously Thursday night, Oct. 3, to oppose Jackson County’s proposed half-cent sales tax for  “translational medical research.”
 
 <img src="/img/FreedomIncBig.jpg" alt="Freedom Incorporated" class="img-responsive">
 <p class="caption">State Rep. Gail McCann Beatty (left) and State Sen. Kiki Curls at Freedom Inc. headquarters Thursday night. They stood in front of a photo of the late Bruce R. Watkins, a founder of the organization.</p>
