@@ -28,7 +28,7 @@ Here’s how the $40 million to $50 million a year in sales-tax proceeds is supp
 
 The county's primary responsibilities are to provide services to people in the unincorporated areas; record deeds; and assess property values and collect tax revenue. 
 
-If you’ll recall, earlier this year, the county assessed thousands of parcels way above their fair market values. Taxpayers were furious. In disgrace, the county rescinded most of the increases; the county assessor resigned; and egg dripped from the face of County Executive Mike Sanders.
+If you’ll recall, earlier this year the county assessed thousands of parcels way above their fair market values. Taxpayers were furious. In disgrace, the county rescinded most of the increases; the county assessor resigned; and egg dripped from the face of County Executive Mike Sanders.
 
 Let's go back to the title of this post: _Can the county be trusted to oversee the disbursal of piles of money going to a venture that would be totally new for county government?_
 
