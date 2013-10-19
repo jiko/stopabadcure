@@ -3,7 +3,7 @@ layout: post
 published: true
 ---
 
-Here are recent **Kansas City Star** letters to the editor.
+Here are recent **Kansas City Star** letters to the editor opposing Jackson County Question 1.
 
 **
 
@@ -65,7 +65,7 @@ Property owners should pay for social benefits accruing to them through governme
 Kansas City
 
 
-
+Oct. 15
 
 We would all like to see Kansas City become a leader in medical research. But a sales tax to fund it?
 
@@ -81,23 +81,8 @@ I have received four deceptive flyers promoting Question 1. Where are the words 
 
 The committee pushing for passage of Question 1 seems to be working from the playbook of that shameless plutocrat, the late Leona Helmsley: _“Let the little people pay.”_
 
-**Catherine Morris**, Kansas City
-
-**
-
-Enough already. I believe I'm already forking over 10 cents on the dollar for various projects deemed good for the community.
-
-But why would I want to up the ante with an additional half-cent tax increase this year (who knows what will be proposed next year?) to essentially fund a high-risk gambit of betting on the development of successful "translational" drugs, which, when taken to market, would repay our investment many times over?
-
-Isn't that what major pharmaceutical companies, which have much greater experience, do every day, and isn't the success ratio incredibly low? And taking years to do so?
-
-It seems to me this risky enterprise is more appropriately funded by the private sector and not government. Once again, government appears to be going down the path of making risky investments with public-sector money.
-
-Does anyone remember Solyndra? Leave high risk to the private sector and forget the sales-tax increase.
-
-**Paul Cox**, Kansas City
-
-
+**Catherine Morris**
+Kansas City
 
 
 
