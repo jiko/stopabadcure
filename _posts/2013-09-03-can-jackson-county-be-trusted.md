@@ -26,7 +26,7 @@ Here’s how the $40 million to $50 million a year in sales-tax proceeds is supp
 
 <em>In theory, most of the distribution formula sounds good, but an important element to consider is the track record of the entity with ultimate control of the money -- the county.</em>
 
-The county's primary function -- above maintaing parks, lakes and golf courses -- is to assess residential, agricultural and commercial property within the county, collect property taxes and distribute the proceeds to the various taxing jurisdictions.
+The county's primary responsibilities are to provide services to people in the unincorporated areas; record deeds; and assess property values and collect tax revenue. 
 
 If you’ll recall, earlier this year, the county assessed thousands of parcels way above their fair market values. Taxpayers were furious. In disgrace, the county rescinded most of the increases; the county assessor resigned; and egg dripped from the face of County Executive Mike Sanders.
 
