@@ -6,11 +6,11 @@ published: true
 
 <img src="/img/giveaway.jpg" class="img-responsive" alt="Give Away">
 
-The Civic Council (an organization of the area's top business people) is attempting to sell its proposed half-cent sales tax for “translational” medical research on the expectation that the research will spur economic development.
+The **Civic Council of Greater Kansas City**, an organization of the area's top business people, is attempting to sell its proposed half-cent sales tax for “translational” medical research on the expectation that the research will spur economic development.
 
 That’s a smart ploy because, in this post-Great Recession period, everybody wants “economic development.”
 
-Yet,a key question is: 
+But in this case, it's bogus.  
 
 <em>How would doling out more than $35 million a year for existing, non-profit entities (Children's Mercy Hospital, UMKC and St.Luke's Health System) generate significant economic development?</em> 
 
