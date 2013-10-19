@@ -9,11 +9,11 @@ Here are recent **Kansas City Star** letters to the editor opposing Jackson Coun
 
 Oct. 18
 
-It is surprising that nowhere in the ongoing dialogue on the proposed half-cent sales tax for medical research has
+It is surprising that nowhere in the ongoing dialogue on the proposed half-cent sales tax for medical research
 
-there been mention of the Heartland Institute for Clinical and Translational Research at the University of Kansas,
+has there been mention of the Heartland Institute for Clinical and Translational Research at the University of 
 
-known at KU as the Frontiers Program. This institute is less than five miles from the proposed site of the
+Kansas, known at KU as the Frontiers Program. This institute is less than five miles from the proposed site of the
 
 translational research institute on Hospital Hill.
 
