@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+tags: lead
 ---
 
 It was Aug. 8 when area residents first learned of the <strong>Civic Council of Greater Kansas City’s</strong> plan for a new half-cent, sales tax to benefit “translational medical research.”
