@@ -1,6 +1,5 @@
 ---
 layout: post
-tags: lead
 published: true
 ---
 
