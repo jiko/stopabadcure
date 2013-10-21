@@ -1,5 +1,4 @@
 ---
-title: Show your opposition right out front
 layout: post
 published: true
 ---
