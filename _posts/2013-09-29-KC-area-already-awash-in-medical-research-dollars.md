@@ -1,8 +1,7 @@
 ---
 layout: post
-published: true
+published: false
 title: KC Area Already Awash in Medical Research Dollars
-tags: null
 ---
 
 Recently, I made startling discovery.
