@@ -16,7 +16,7 @@ For more than a decade, the Civic Council (consisting of the CEO’s of the bigg
 
 Furthermore, and more specifically, the Civic Council wants to make sure that the organization calling the shots is an institution of its own creation -- the **Kansas City Area Life Sciences Institute**.
 
-The Civic Council dreamed up the idea of the life sciences instiutute nearly 15 years ago, and the institute was formally established in the early 2000s. (You can read more about the institute's history on its website, kcalsi.org.)
+The Civic Council dreamed up the idea of the life sciences instiutute nearly 15 years ago, and the institute was formally established in the early 2000s. (You can read more about the institute's history on its website, www.kclifesciences.org.)
 
 The institute’s original business plan, finalized in 2000, called for KCALSI to “build a critical mass in life sciences research in Kansas City.” In its plan, the institute set a goal of coordinating the expenditure of $500 million _a year_ on medical research in the Kansas City area. 
 
