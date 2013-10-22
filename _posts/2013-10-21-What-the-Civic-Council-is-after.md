@@ -1,8 +1,7 @@
 ---
 layout: post
 tags: lead
-published: false
----
+published: true
 
 Almost every day, someone asks me: “Who’s behind this sales-tax proposal and what do they want?” 
 
