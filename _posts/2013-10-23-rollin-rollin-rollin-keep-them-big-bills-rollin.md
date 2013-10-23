@@ -23,7 +23,7 @@ The leading, single contributor remains the **Civic Council of Greater Kansas Ci
 
 Interestingly, even though these hefty individuals and wealthy corporations (uh, I mean, _wealthy individuals_ and _hefty corporations_) have put in hundreds of thousands of dollars, individual Civic Council leaders never appear at neighborhood association meetings to explain why they want the taxpayers to fund their extravagant pet project.
 
-Instead, they send out their minions, often lawyers and others who are expecting to get business deals or committee appointments down the road, if the road leads to passage.
+Instead, they send out their minions, often lawyers and others who are expecting to get business deals or advisory board appointments, if the measure passes.
 
 The civic leaders don't like a street fight, which this campaign has become. They'd rather sit back in their homes -- several of which are in Mission Hills and Leawood -- and throw more money onto the pyre.
 
