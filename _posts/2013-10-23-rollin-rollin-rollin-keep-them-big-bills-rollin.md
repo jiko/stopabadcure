@@ -5,7 +5,7 @@ published: true
 
 With the proponents of **Jackson County Question 1** having lost what little momentum they had early on, I've been watching closely to see if the eye-popping contributions to the **Citizens for Research, Treatments and Cures** campaign committee would fall off.
 
-You know...at some point, even the very rich people and institutions have to wonder if they're throwing good money after bad.
+You know...at some point, even the very rich people and well-to-do companies have to wonder if they're throwing good money after bad.
 
 But, no, it appears that the big bucks are continuing to flow fairly steadily.
 
