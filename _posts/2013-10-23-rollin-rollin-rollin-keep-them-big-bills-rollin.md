@@ -31,28 +31,28 @@ _And, yes, that money will be going up in flames; this monster is headed for a h
 
 As of today, here's the latest list of five- and six-figure contributors to the cures committee:
 
-**Civic Council of Greater Kansas City**, $600,00;
-**Children’s Mercy Hospital**, $200,000;
-**Donald Hall Jr.**, $100,000;
-**Hallmark Global Services**, $100,000;
-**J.E. Dunn Construction**, $100,000;
-**John G. Sherman**, chairman and CEO of Inergy L.P., $100,000;
-**Burns and McDonnell**, engineering company, $75,000
-**Robert Kipp**, former Crown Center Development president, $50,000;
-**St. Luke’s Health System**, $40,000;
-**KCP&L**, $25,000;
-**Mariner Holdings**, $25,000.
-**Tom McDonnell**, retired DST CEO, $25,000;
-**Irvine O. Hockaday Jr.**, former Hallmark Cards CEO., $20,000;
-**Randall O'Donnell,** Children's Mercy CEO, $15,000
-**William Gautreaux**, a top Inergy LP officer (see John Sherman), $10,000;
-**Wagstaff & Cartmell** law firm, $10,000;
-**St. Luke’s Foundation**, $10,000;
-**Kansas City Southern Railway**, $10,000
-**Husch Blackwell** law firm, $10,000;
-**Dr. L. Patrick James**, of the KC Area Life Sciences Institute, $10,000;
-**Polsinelli** law firm, $10,000;
-**Lockton Companies**, $10,000
+    **Civic Council of Greater Kansas City**, $600,00;
+    **Children’s Mercy Hospital**, $200,000;
+    **Donald Hall Jr.**, $100,000;
+    **Hallmark Global Services**, $100,000;
+    **J.E. Dunn Construction**, $100,000;
+    **John G. Sherman**, chairman and CEO of Inergy L.P., $100,000;
+    **Burns and McDonnell**, engineering company, $75,000
+    **Robert Kipp**, former Crown Center Development president, $50,000;
+    **St. Luke’s Health System**, $40,000;
+    **KCP&L**, $25,000;
+    **Mariner Holdings**, $25,000.
+    **Tom McDonnell**, retired DST CEO, $25,000;
+    **Irvine O. Hockaday Jr.**, former Hallmark Cards CEO., $20,000;
+    **Randall O'Donnell,** Children's Mercy CEO, $15,000
+    **William Gautreaux**, a top Inergy LP officer (see John Sherman), $10,000;
+    **Wagstaff & Cartmell** law firm, $10,000;
+    **St. Luke’s Foundation**, $10,000;
+    **Kansas City Southern Railway**, $10,000
+    **Husch Blackwell** law firm, $10,000;
+    **Dr. L. Patrick James**, of the KC Area Life Sciences Institute, $10,000;
+    **Polsinelli** law firm, $10,000;
+    **Lockton Companies**, $10,000
 
 Long ago, a wise editor told me, "Never make the reader do the math."
 
