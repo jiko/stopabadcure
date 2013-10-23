@@ -13,6 +13,11 @@ The largest, recent contribution to the cures committee came from **Children's M
 
 Children's Mercy, of course, is poised to be one of three major beneficiaries, should Jackson County voters approve a new half-cent sales tax for "translational medical research" on Nov. 5. (The other chief beneficiaries would be **St. Luke's Health System** and **UMKC**.)
 
+<div class="pull-left" style="padding-right:1em;">
+<img src="/img/randall.jpg" class="img-responsive" alt="Randall O'Donnell">
+<p class="caption">O'Donnell with CMH patient</p>
+</div>
+
 Children's CEO **Randall O'Donnell** has contributed $15,000 personally...And he can afford it. His salary is about $1 million a year, and in 2009 he received a $6 million bonus. (_"Honey, we've hit the jackpot!_)
 
 Another recent, significant contribution came from **Burns & McDonnell** engineering company,, which added $25,000 to an earlier gift of $50,000.
