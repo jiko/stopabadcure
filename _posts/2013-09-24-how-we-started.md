@@ -33,4 +33,4 @@ Nothing. Nothing but the hope of beating back what looks like the worst tax prop
 
 I plan to dissolve the committee within days after the election and get back to pushing for higher priorities for Kansas City and Jackson County, such as commuter rail and reconfiguration of Kansas City International Airport.
 
-Between now and Election Day, though, I plan to fight like a cat on a backyard rampage. 
+Between now and Election Day, though, I plan to fight like a cat going after a big rat.
