@@ -25,10 +25,13 @@ Last week, when Business Journal Editor Brian Kaberline was interviewing me abou
 
 He paused for a second and said something like, "I wish we would have waited on that a bit."
 
-At least the paper had the courage to admit its endorsement was not only premature but wrong.
+In Friday's edition, the paper said that its editorial board had had concerns about the proposal initially but that "enthusiasm for the overall goal of building on the area's existing life sciences efforts" eclipsed those concerns.
 
+"But a closer examination of the issue brings us to new ground as an editorial board," the editorial went on to say.
 
+Well, thank God. And let's give the editorial board credit for admitting it was wrong.
 
+...Here is a list of the cures committee's major contributors as of today, Friday, Oct. 25. 
 
 
 -  **The Civic Council of Greater Kansas City**, $600,00;
@@ -54,4 +57,7 @@ At least the paper had the courage to admit its endorsement was not only prematu
 -  **The Polsinelli** law firm, $10,000;
 -  **Lockton Companies**, $10,000;
 -  **Stinson Morrison Hecker** law firm, $7,500;
-
+-  **Tension Envelopes**, $10,000;
+-  **Health Alliance of Mid-America**, $10,000
+-  **Blue Cross and Blue Shield of Kansas City**, $7,500
+-  **Kansas City Chiefs**, $7,500
