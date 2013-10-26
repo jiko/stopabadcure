@@ -7,7 +7,7 @@ On a day when the Kansas City **Business Journal** retracted its earlier endorse
 
 The Civic Council -- whose members are primarily the CEOs of the area's largest businesses and the managing partners of the most prestigious law firms -- has now invested $700,000 in the campaign.
 
-And still, not once, to the best of my knowledge, has a member of the Civic Council shown up to speak in favor of it. It's always people representing the Civic Council. Even Jackson County Executive Mike Sanders, who championed the idea of putting the proposal on the ballot, has abandoned the effort, at least publicly.
+And still, not once, to the best of my knowledge, has a member of the Civic Council shown up to speak in favor of it. It's always people representing the Civic Council. Even Jackson County Executive **Mike Sanders**, who championed the idea of putting the proposal on the ballot, has abandoned the effort, at least publicly.
 
 Another contribution that was reported to the **Missouri Ethics Commission** today was $20,000 from the **St. Luke's Foundation**. That brings the total St. Luke's investment to a whopping $70,000 -- that is, $40,000 from **St. Luke's Health System** and $30,000 from the foundation.
 
@@ -15,7 +15,7 @@ St. Luke's Health System, of course, is one of three institutions that would sha
 
 Other new entries into the contribution sweepstakes for the proponents are:
 
-**Tension Envelopes** and the **Health Alliance of Mid-America**, $10,000 each, and **Blue Croos and Blue Shield of Kansas City** and the **Kansas City Chiefs**, $7,500 each. 
+**Tension Envelopes** and the **Health Alliance of Mid-America**, $10,000 each, and **Blue Cross and Blue Shield of Kansas City** and the **Kansas City Chiefs**, $7,500 each. 
    
 The view from this web perch, however, is that the nearly $2 million that the proponents probably will end up spending is headed down the tubes. 
 
@@ -61,3 +61,5 @@ Well, thank God. And let's give the editorial board credit for admitting it was 
 -  **Health Alliance of Mid-America**, $10,000
 -  **Blue Cross and Blue Shield of Kansas City**, $7,500
 -  **Kansas City Chiefs**, $7,500
+
+That's a total of $1.71 million. The next deadline for a full disclosure report with the Missouri Ethics Commission is Monday, Oct. 28. 
