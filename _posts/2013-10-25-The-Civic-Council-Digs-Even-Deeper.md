@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 On a day when the Kansas City Business Journal retracted its earlier endorsement of the proposed half-cent sales tax for medical research, the Civic Council of Greater Kansas City pitched another $100,0000 onto the huge pile of money being spent to try to pass the measure. 
