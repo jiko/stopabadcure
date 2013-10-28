@@ -5,6 +5,17 @@ published: true
 
 Here are recent **Kansas City Star** letters to the editor opposing Jackson County Question 1.
 
+**Oct. 26**
+
+Thank you, Yael T. Abouhalkah (KC Star editorial board member and columnist) for punching holes in the latest tax grab for Jackson Countians. We already subsidize the Kansas City Chiefs, the Kansas City Royals and the Kansas City Zoo for all our neighbors to enjoy.
+
+Let's vote down this new 20-year tax. Of course, we would all like to cure every disease, but a half-cent sales tax is not the vehicle to raise those funds. 
+
+I suggest everyone send money to the cause that is closest to each individual's heart, if people can afford such a donation. Let's not tax those who can least afford it.
+
+**Ginzy Schaefer**, Kansas City
+
+
 **Oct. 22**
 
 The Nov. 5 ballot proposal to fund translational medical research by means of a 20-year, half-cent increase to the sales tax is simply a bad idea. If there truly is a commitment to develop medical-research capabilities in Kansas City, let's dream bigger and push a statewide initiative funded by an increase in our abysmally low state tax on tobacco products.
