@@ -5,6 +5,14 @@ published: true
 
 Here are recent **Kansas City Star** letters to the editor opposing Jackson County Question 1.
 
+**Oct. 27**
+
+If only Jackson County residents are voting on the half-cent, 20-year medical research tax that is supposed to generate $800 million, then the researchers, medical doctors and all subsequent employees who are hired by the groups receiving the money should be required to live in cities and communities in Jackson County and pay property taxes, sales taxes and arena fees in Jackson County.
+
+Their children should be required to go to schools on the Missouri side of the state line. That way our new residents would truly be invested in Kansas City and other Jackson County communities.
+
+**Susan Birt**, Kansas City
+
 **Oct. 26**
 
 Thank you, Yael T. Abouhalkah (KC Star editorial board member and columnist) for punching holes in the latest tax grab for Jackson Countians. We already subsidize the Kansas City Chiefs, the Kansas City Royals and the Kansas City Zoo for all our neighbors to enjoy.
