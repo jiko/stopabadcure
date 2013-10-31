@@ -13,7 +13,7 @@ Also, I don't think the Business Journal has box sales any longer, because I cou
 
 But today I got a copy ($3.95!) at Barnes & Noble. The full editorial is interesting and well written. I hope you'll take a few minutes to read it. Here goes...
 
-
+**
 
 Sometimes you want something so badly, you suspend your normal thought processes.
 
@@ -21,7 +21,7 @@ That essentially is why we editorialized in favor of the Jackson County Translat
 
 But a closer examination of the issue brings us to new ground as an editorial board. Although we are as supportive as ever of the tax proposal's goal, we no longer support the half-cent Jackson County sales tax as the means for bringing it about.
 
-Although supporters of the tax point to the Johnson County Education Research Tax as a good example of a county stepping up to support a less traditional public goal, taking the comparison further highlights flaws in the Jackson County proposal.
+Although supporters of the tax point to the **Johnson County Education Research Tax** as a good example of a county stepping up to support a less traditional public goal, taking the comparison further highlights flaws in the Jackson County proposal.
 
 Johnson County's one-eighth-cent levy is smaller, not only reducing the burden on taxpayers, but posing less competition for other county budgeting priorities. This is an important consideration for Jackson County if it is to continue pursuing a commuter-rail system and addressing basic infrastructure and protection needs.
 
@@ -29,7 +29,7 @@ The Johnson County tax is overseen by a board appointed by public bodies and pop
 
 It is clear that the Jackson County measure was meant to minimize county involvement as much as possible. An outline presented to the Kansas City Business Journal editorial board included no county representative on the board -- the same board that would hire a scientific director and appoint both community and scientific advisory boards.
 
-Promises that Jackson County will receive a 20-percent cut of revenue resulting from the proposed Institute for Translational Medicine are fuzzy, at best. How much revenue will the institute stand to receive after taking into account the interests of scientists and institutions instrumental in the basic scientific work that the translation institute seeks to commercialize? How will partners Children's Mercy Hospitals and Clinics, St. Luke's Health System and the University of Missouri-Kansas City be compensated for their collaboration? What about interests of any outside investors?
+Promises that Jackson County will receive a 20-percent cut of revenue resulting from the proposed **Institute for Translational Medicine** are fuzzy, at best. How much revenue will the institute stand to receive after taking into account the interests of scientists and institutions instrumental in the basic scientific work that the translation institute seeks to commercialize? How will partners **Children's Mercy Hospitals and Clinics**, **St. Luke's Health System** and the **University of Missouri-Kansas City** be compensated for their collaboration? What about interests of any outside investors?
 
 The answer is that no one can say. Backers say negotiations are underway and would continue beyond Election Day.
 
@@ -39,16 +39,18 @@ Backers of the proposed Jackson County tax say that they have no other choice af
 
 Even voters in favor of the establishment of a Jackson County Institute for Translational Medicine owe it to themselves to give more than  a cursory review to the 20-year investment proposal. After engaging in this process as an editorial board, we believe the present tax proposal suffers from a lack of detail, insufficient public discussion and too little accountability to taxpayers.
 
+**
+
 Now, that is an outstanding editorial, isn't it?
 
 I love the emphasis on the lack of public accountability; the proponents' rush to get the measure on the ballot; and the logic of leaving extremely risky and costly research to private investors.
 
 In addition, urging voters to "give more than a cursory review to the 20-year investment proposal" is right on the money.
 
-Shamefully, that is exactly what the Civic Council of Greater Kansas City -- the wealthy, elite group of business leaders behind this unholy proposal -- DO NOT want voters to do.
+Shamefully, that is exactly what the **Civic Council of Greater Kansas City** -- the wealthy, elite group of business leaders behind this unholy proposal -- DO NOT want voters to do.
 
-No, no! Don't examine this too closely because if you do, you just might see gigantic holes in the proposal.
+No, no! Don't examine this too closely because if you do, you just might see the gaping holes in the proposal.
 
-They just want voters to watch their heart-tugging TV ads and go out and vote on emotions only.
+The Civic Council just wants voters to watch their heart-tugging TV ads and go out and vote on emotions only.
 
-Well, too bad, Civic Council; the voters are onto you. They're pissed, and they're going to blow you away on Tuesday.
+_Well, Civic Council, the voters are onto you. They're pissed, and they're going to blow you away on Tuesday._
