@@ -1,7 +1,7 @@
 ---
 title: Show your opposition right out front
 layout: post
-published: true
+published: false
 ---
 
 Yard signs in opposition to **Jackson County Question 1** are now availabe.
