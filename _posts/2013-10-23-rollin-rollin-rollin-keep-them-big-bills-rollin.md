@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 ---
 
 With the proponents of **Jackson County Question 1** having lost what little momentum they had early on, I've been watching closely to see if the eye-popping contributions to the **Citizens for Research, Treatments and Cures** campaign committee would fall off.
