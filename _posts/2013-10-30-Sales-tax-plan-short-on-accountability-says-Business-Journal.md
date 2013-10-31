@@ -15,29 +15,29 @@ But today I got a copy ($3.95!) at Barnes & Noble. The full editorial is interes
 
 **
 
-Sometimes you want something so badly, you suspend your normal thought processes.
+_Sometimes you want something so badly, you suspend your normal thought processes._
 
-That essentially is why we editorialized in favor of the Jackson County Translational Research sales tax in mid-August. Although we had questions at the time about the exact setup of the proposal, they were eclipsed by enthusiasm for the overall goal of building on the area's existing life sciences efforts, especially through three impressive local institutions.
+_That essentially is why we editorialized in favor of the Jackson County Translational Research sales tax in mid-August. Although we had questions at the time about the exact setup of the proposal, they were eclipsed by enthusiasm for the overall goal of building on the area's existing life sciences efforts, especially through three impressive local institutions._
 
-But a closer examination of the issue brings us to new ground as an editorial board. Although we are as supportive as ever of the tax proposal's goal, we no longer support the half-cent Jackson County sales tax as the means for bringing it about.
+_But a closer examination of the issue brings us to new ground as an editorial board. Although we are as supportive as ever of the tax proposal's goal, we no longer support the half-cent Jackson County sales tax as the means for bringing it about._
 
-Although supporters of the tax point to the **Johnson County Education Research Tax** as a good example of a county stepping up to support a less traditional public goal, taking the comparison further highlights flaws in the Jackson County proposal.
+_Although supporters of the tax point to the **Johnson County Education Research Tax** as a good example of a county stepping up to support a less traditional public goal, taking the comparison further highlights flaws in the Jackson County proposal._
 
-Johnson County's one-eighth-cent levy is smaller, not only reducing the burden on taxpayers, but posing less competition for other county budgeting priorities. This is an important consideration for Jackson County if it is to continue pursuing a commuter-rail system and addressing basic infrastructure and protection needs.
+_Johnson County's one-eighth-cent levy is smaller, not only reducing the burden on taxpayers, but posing less competition for other county budgeting priorities. This is an important consideration for Jackson County if it is to continue pursuing a commuter-rail system and addressing basic infrastructure and protection needs._
 
-The Johnson County tax is overseen by a board appointed by public bodies and populated by elected officials. This provides a level of accountability and partnership that is lacking with the Jackson County proposal, where the main recipients of the proceeds would control a majority of board seats and the county government has one representative.
+_The Johnson County tax is overseen by a board appointed by public bodies and populated by elected officials. This provides a level of accountability and partnership that is lacking with the Jackson County proposal, where the main recipients of the proceeds would control a majority of board seats and the county government has one representative._
 
-It is clear that the Jackson County measure was meant to minimize county involvement as much as possible. An outline presented to the Kansas City Business Journal editorial board included no county representative on the board -- the same board that would hire a scientific director and appoint both community and scientific advisory boards.
+_It is clear that the Jackson County measure was meant to minimize county involvement as much as possible. An outline presented to the Kansas City Business Journal editorial board included no county representative on the board -- the same board that would hire a scientific director and appoint both community and scientific advisory boards._
 
-Promises that Jackson County will receive a 20-percent cut of revenue resulting from the proposed **Institute for Translational Medicine** are fuzzy, at best. How much revenue will the institute stand to receive after taking into account the interests of scientists and institutions instrumental in the basic scientific work that the translation institute seeks to commercialize? How will partners **Children's Mercy Hospitals and Clinics**, **St. Luke's Health System** and the **University of Missouri-Kansas City** be compensated for their collaboration? What about interests of any outside investors?
+_Promises that Jackson County will receive a 20-percent cut of revenue resulting from the proposed **Institute for Translational Medicine** are fuzzy, at best. How much revenue will the institute stand to receive after taking into account the interests of scientists and institutions instrumental in the basic scientific work that the translation institute seeks to commercialize? How will partners **Children's Mercy Hospitals and Clinics**, **St. Luke's Health System** and the **University of Missouri-Kansas City** be compensated for their collaboration? What about interests of any outside investors?_
 
-The answer is that no one can say. Backers say negotiations are underway and would continue beyond Election Day.
+_The answer is that no one can say. Backers say negotiations are underway and would continue beyond Election Day._
 
-Finally, previous reporting by the Business Journal has pointed out that the area's big need -- if it is to optimize the economic benefit of the life sciences -- is not another translational research lab, but investors. Only private investors can put up the hundreds of millions -- if not billions -- of dollars needed to bring a new drug to market. These investors can dictate where startups locate their operations and the jobs that go with them.
+_Finally, previous reporting by the Business Journal has pointed out that the area's big need -- if it is to optimize the economic benefit of the life sciences -- is not another translational research lab, but investors. Only private investors can put up the hundreds of millions -- if not billions -- of dollars needed to bring a new drug to market. These investors can dictate where startups locate their operations and the jobs that go with them._
 
-Backers of the proposed Jackson County tax say that they have no other choice after failing to win passage of a state incentive program and admit that a big reason for moving quickly is to get the measure considered during an offseason, low-turnout election. Although they deserve credit for being upfront about what's in the best interest of their goal, that's different from the best interests of Jackson County residents.
+_Backers of the proposed Jackson County tax say that they have no other choice after failing to win passage of a state incentive program and admit that a big reason for moving quickly is to get the measure considered during an offseason, low-turnout election. Although they deserve credit for being upfront about what's in the best interest of their goal, that's different from the best interests of Jackson County residents._
 
-Even voters in favor of the establishment of a Jackson County Institute for Translational Medicine owe it to themselves to give more than  a cursory review to the 20-year investment proposal. After engaging in this process as an editorial board, we believe the present tax proposal suffers from a lack of detail, insufficient public discussion and too little accountability to taxpayers.
+_Even voters in favor of the establishment of a Jackson County Institute for Translational Medicine owe it to themselves to give more than  a cursory review to the 20-year investment proposal. After engaging in this process as an editorial board, we believe the present tax proposal suffers from a lack of detail, insufficient public discussion and too little accountability to taxpayers._
 
 **
 
