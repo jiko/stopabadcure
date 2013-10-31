@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 Ever since hearing last Friday that the **Business Journal** made a ground-breaking decision to withdraw its earlier endorsement of the proposed half-cent sales tax for "translational medical research," I have been wanting to get my hands on a copy of the full editorial.
