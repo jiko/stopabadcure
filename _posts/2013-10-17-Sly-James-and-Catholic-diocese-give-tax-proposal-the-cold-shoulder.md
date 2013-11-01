@@ -7,7 +7,7 @@ Kansas City Mayor **Sly James** and several three other mayors in Jackson County
 
 **Yael Abouhalkah** of The Star reported the news in an online story Wednesday morning.
 
-On Wednesday afternoon, the **Catholic Diocese of Kansas City-St. Joseph** came out flatly against the tax, which will be voted on Nov. 5.
+Also on Wednesday, the **Catholic Diocese of Kansas City-St. Joseph** came out flatly against the tax, which will be voted on Nov. 5.
 
 A post on the diocesan website said that developing "next generation medicine leading to cures for the people of the world is an ambitious and worthy goal, which should not be paid for by a regressive tax on the citizens of one county in a single state."
 
@@ -43,4 +43,4 @@ No wonder...with other pressing issues on the city's plate, incuding renovation 
 
 Rebuffed by James, the Civic Council took its extravagant and risky plan to the county, selling it well enough to convince the County Legislature to put it on the ballot. Now, the Civic Council is trying to take us county residents for a ride.
 
-Fortunately, a veritable mountain of organized opposition is developing, and the Civc Council's $1.5 million to $2 million campaign could very well end up falling flat.
+Fortunately, a veritable mountain of organized opposition is developing, and the Civc Council's $1.5 million to $2 million campaign could very well end up flowing down the river of political dreams.
