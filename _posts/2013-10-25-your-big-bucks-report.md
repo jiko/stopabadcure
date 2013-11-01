@@ -3,23 +3,23 @@ layout: post
 published: true
 ---
 
-As of Halloween Day, the people who are trying to buy this election -- the KCFC (Kansas City Fat Cats) -- have contributed $1,892,450 to the Committee for Research, Treatments and Cures. 
+As of Halloween Day, the people who are trying to buy this election -- the KCFC (Kansas City Fat Cats) -- have contributed more than $1.8 million to the Committee for Research, Treatments and Cures. 
 
-That means it's almost certain that the committee pushing Jackson County Question 1 will end up spending more than $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
+That means the committee pushing Jackson County Question 1 probably will end up spending more than $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
 
 Here's a list of the latest four- and five-figure contributions:
 
 - **UMKC Foundation**, $96,000 on Oct. 28;
-- **Walter Porter**, Olathe, Oct. 31;
+- **Walter Porter**, Olathe, $10,000 on Oct. 31;
 - **Global Prairie**, $5,000, Oct. 31;
 - **James B. Nutter Co.**, $17,000 Oct. 30;
 - **Barnett Helzbert Jr. Revocable Trust**, $25,0000 on Oct. 30;
 - **Kansas City University of Medicine and Biosciences**, $4,450 on Oct. 29;
 - **Sprint**, $25,000 on Oct. 29
 
-And here is a list of major contributions that I previously reported:
+And here is a list of major contributions that I previously reported, as of Oct. 25:
 
--  **The Civic Council of Greater Kansas City**, $600,00;
+-  **The Civic Council of Greater Kansas City**, $700,000;
 -  **Children’s Mercy Hospital**, $100,000;
 -  **Donald Hall Jr.**, $100,000;
 -  **Hallmark Global Services**, $100,000;
@@ -47,5 +47,12 @@ And here is a list of major contributions that I previously reported:
 -  **Blue Cross and Blue Shield of Kansas City**, $7,500
 -  **Kansas City Chiefs**, $7,500
   
-The view from stopabadcure.org is that all this money is headed down the tubes. 
+On this Halloween Day, 2013, here are my Election Day predictions:
 
+Fourteen percent of the county's 404,000 registered voters will cast ballots. 
+
+The total number of "no" votes will be 29,694.
+
+The total number of "yes" votes will be 26,866.
+
+The Committee for Research, Treatments and Cures will have spent almost $75 per vote.  
