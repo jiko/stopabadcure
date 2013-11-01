@@ -31,7 +31,7 @@ _"But a closer examination of the issue brings us to new ground as an editorial 
 
 Well, thank God. And let's give the editorial board credit for admitting it was wrong.
 
-...Here is a list of the cures committee's major contributors as of today, Friday, Oct. 25. 
+...Here is a list of the cures committee's major contributors as of Friday, Oct. 25. The following contributions total $1,892,450.  
 
 
 -  **The Civic Council of Greater Kansas City**, $600,00;
@@ -62,4 +62,3 @@ Well, thank God. And let's give the editorial board credit for admitting it was 
 -  **Blue Cross and Blue Shield of Kansas City**, $7,500
 -  **Kansas City Chiefs**, $7,500
 
-That's a total of $1.71 million. The next deadline for a full disclosure report with the Missouri Ethics Commission is Monday, Oct. 28. 
