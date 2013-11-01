@@ -47,12 +47,14 @@ And here is a list of major contributions that I previously reported, as of Oct.
 -  **Blue Cross and Blue Shield of Kansas City**, $7,500
 -  **Kansas City Chiefs**, $7,500
   
-On this Halloween Day, 2013, here are my Election Day predictions:
+** 
 
-1. Fourteen percent of the county's 404,000 registered voters will cast ballots. 
+Here are my Election Day predictions:
 
-2. The total number of "no" votes will be 29,694.
+1. **Fourteen percent**, or 56,672, of the county's 404,000 registered voters will cast ballots.
 
-3. The total number of "yes" votes will be 26,866.
+2. The total number of "no" votes will be **30,033**.
 
-4. The Committee for Research, Treatments and Cures will have spent almost $75 per vote.  
+3. The total number of "yes" votes will be **26,639**.
+
+4. The Committee for Research, Treatments and Cures will have spent almost **$75 per vote**.
