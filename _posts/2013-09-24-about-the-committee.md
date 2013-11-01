@@ -4,7 +4,7 @@ layout: post
 title: About the Committee
 ---
 
-Here is a current list of the members of the Committee to Stop a Bad Cure. Including me, we have 32 members. The most recent additions were **Tom and Loretta Ortiz,** Independence, who joined us Oct.10. Tom is retired from Tension Envelopes. Loretta is a seamstress, retired from WomenSpirit, Vestments for Women, North Kansas City.  
+Here is a list of the members of the **Committee to Stop a Bad Cure**. Including me, we have 32 members.  
 
 (All members of the committee are Jackson County residents.) 
 
