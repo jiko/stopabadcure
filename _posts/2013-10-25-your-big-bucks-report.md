@@ -28,6 +28,7 @@ And here is a list of major contributions that I previously reported, as of Oct.
 -  **Robert Kipp**, former Crown Center Development president, $50,000;
 -  **Burns and McDonnell**, engineering company, $50,000;
 -  **St. Luke’s Health System**, $40,000;
+-  **St. Luke’s Foundation**, $30,000;
 -  **KCP&L**, $25,000;
 -  **Mariner Holdings**, $25,000.
 -  **Tom McDonnell**, retired DST c.e.o., $25,000;
@@ -35,18 +36,17 @@ And here is a list of major contributions that I previously reported, as of Oct.
 -  **Randall O'Donnell, Children's Mercy CEO**, $15,000 
 -  **William Gautreaux**, a top Inergy LP officer (see John Sherman), $10,000;
 -  **Wagstaff & Cartmell** law firm, $10,000;
--  **St. Luke’s Foundation**, $30,000;
 -  **Kansas City Southern Railway**, $10,000  
 -  **Husch Blackwell** law firm, $10,000;
 -  **Dr. L. Patrick James**, of the KC Area Life Sciences Institute, $10,000;
 -  **The Polsinelli** law firm, $10,000;
 -  **Lockton Companies**, $10,000;
--  **Stinson Morrison Hecker** law firm, $7,500;
 -  **Tension Envelopes**, $10,000;
 -  **Health Alliance of Mid-America**, $10,000
 -  **Blue Cross and Blue Shield of Kansas City**, $7,500
 -  **Kansas City Chiefs**, $7,500
-  
+-  **Stinson Morrison Hecker** law firm, $7,500;
+
 ** 
 
 Here are my Election Day predictions:
