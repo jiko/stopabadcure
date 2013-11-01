@@ -3,36 +3,21 @@ layout: post
 published: true
 ---
 
-On a day when the Kansas City **Business Journal** retracted its earlier endorsement of the proposed half-cent sales tax for medical research, the **Civic Council of Greater Kansas City pitched** another $100,0000 onto the huge pile of money being spent to try to pass the measure. 
+As of Halloween Day, the people who are trying to buy this election -- the KCFC (Kansas City Fat Cats) -- have contributed $1,892,450 to the Committee for Research, Treatments and Cures. 
 
-The Civic Council -- whose members are primarily the CEOs of the area's largest businesses and the managing partners of the most prestigious law firms -- has now invested $700,000 in the campaign.
+That means it's almost certain that the committee pushing Jackson County Question 1 will end up spending more than $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
 
-And still, not once, to the best of my knowledge, has a member of the Civic Council shown up to speak in favor of it. It's always people representing the Civic Council. Even Jackson County Executive **Mike Sanders**, who championed the idea of putting the proposal on the ballot, has abandoned the effort, at least publicly.
+Here's a list of the latest four- and five-figure contributions:
 
-Another contribution that was reported to the **Missouri Ethics Commission** today was $20,000 from the **St. Luke's Foundation**. That brings the total St. Luke's investment to a whopping $70,000 -- that is, $40,000 from **St. Luke's Health System** and $30,000 from the foundation.
+- **UMKC Foundation**, $96,000 on Oct. 28;
+- **Walter Porter**, Olathe, Oct. 31;
+- **Global Prairie**, $5,000, Oct. 31;
+- **James B. Nutter Co.**, $17,000 Oct. 30;
+- **Barnett Helzbert Jr. Revocable Trust**, $25,0000 on Oct. 30;
+- **Kansas City University of Medicine and Biosciences**, $4,450 on Oct. 29;
+- **Sprint**, $25,000 on Oct. 29
 
-St. Luke's Health System, of course, is one of three institutions that would share $36 million a year in new sales tax proceeds, if voters were to approve **Jackson County Question 1** on Nov. 5. The other chief beneficiaries would be **Children's Mercy Hospital and Clinics** and **UMKC**.
-
-Other new entries into the contribution sweepstakes for the proponents are:
-
-**Tension Envelopes** and the **Health Alliance of Mid-America**, $10,000 each, and **Blue Cross and Blue Shield of Kansas City** and the **Kansas City Chiefs**, $7,500 each. 
-   
-The view from this web perch, however, is that the nearly $2 million that the proponents probably will end up spending is headed down the tubes. 
-
-The latest setback for the **Citizens for Research, Treatments and Cures** campaign committee was the Business Journal's capitulation. The weekly endorsed the proposal in mid-August, about two weeks _before_ the county legislature even voted to put the measure on the ballot.
-
-Last week, when Business Journal Editor **Brian Kaberline** was interviewing me about the campaign, I turned the conversation to his paper's endorsement, saying: "What the heck were you guys thinking about, endorsing the proposal before the legislature had even put it on the ballot?"
-
-He paused for a second and said something like, "I wish we would have waited on that a bit."
-
-In Friday's edition, the paper said that its editorial board had had concerns about the proposal initially but that "enthusiasm for the overall goal of building on the area's existing life sciences efforts" eclipsed those concerns.
-
-_"But a closer examination of the issue brings us to new ground as an editorial board,"_ the editorial went on to say.
-
-Well, thank God. And let's give the editorial board credit for admitting it was wrong.
-
-...Here is a list of the cures committee's major contributors as of Friday, Oct. 25. The following contributions total $1,892,450.  
-
+And here is a list of major contributions that I previously reported:
 
 -  **The Civic Council of Greater Kansas City**, $600,00;
 -  **Children’s Mercy Hospital**, $100,000;
@@ -61,4 +46,6 @@ Well, thank God. And let's give the editorial board credit for admitting it was 
 -  **Health Alliance of Mid-America**, $10,000
 -  **Blue Cross and Blue Shield of Kansas City**, $7,500
 -  **Kansas City Chiefs**, $7,500
+  
+The view from stopabadcure.org is that all this money is headed down the tubes. 
 
