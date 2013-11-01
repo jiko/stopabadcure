@@ -49,10 +49,10 @@ And here is a list of major contributions that I previously reported, as of Oct.
   
 On this Halloween Day, 2013, here are my Election Day predictions:
 
-Fourteen percent of the county's 404,000 registered voters will cast ballots. 
+1. Fourteen percent of the county's 404,000 registered voters will cast ballots. 
 
-The total number of "no" votes will be 29,694.
+2. The total number of "no" votes will be 29,694.
 
-The total number of "yes" votes will be 26,866.
+3. The total number of "yes" votes will be 26,866.
 
-The Committee for Research, Treatments and Cures will have spent almost $75 per vote.  
+4. The Committee for Research, Treatments and Cures will have spent almost $75 per vote.  
