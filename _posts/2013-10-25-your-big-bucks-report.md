@@ -3,9 +3,9 @@ layout: post
 published: true
 ---
 
-As of Halloween Day, the people who are trying to buy this election -- the KCFC (Kansas City Fat Cats) -- have contributed more than $1.8 million to the Committee for Research, Treatments and Cures. 
+As of Halloween Day, the people who are trying to buy this election -- the KCFC (Kansas City Fat Cats) -- have contributed more than $1.8 million to the **Committee for Research, Treatments and Cures**. 
 
-That means the committee pushing Jackson County Question 1 probably will end up spending more than $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
+That means the committee pushing **Jackson County Question 1** probably will end up spending more than $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
 
 Here's a list of the latest four- and five-figure contributions:
 
@@ -32,7 +32,7 @@ And here is a list of major contributions that I previously reported, as of Oct.
 -  **KCP&L**, $25,000;
 -  **Mariner Holdings**, $25,000.
 -  **Tom McDonnell**, retired DST c.e.o., $25,000;
--  **Irvine O. Hockaday Jr**., former Hallmark Cards c.e.o., $20,000;
+-  **Irvine O. Hockaday Jr**., retired Hallmark Cards c.e.o., $20,000;
 -  **Randall O'Donnell, Children's Mercy CEO**, $15,000 
 -  **William Gautreaux**, a top Inergy LP officer (see John Sherman), $10,000;
 -  **Wagstaff & Cartmell** law firm, $10,000;
