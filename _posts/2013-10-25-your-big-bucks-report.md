@@ -26,7 +26,7 @@ And here is a list of major contributions that I previously reported, as of Oct.
 -  **J.E. Dunn Construction**, $100,000;
 -  **John G. Sherman**, chairman and c.e.o of Inergy L.P., $100,000;
 -  **Robert Kipp**, former Crown Center Development president, $50,000;
--  **Burns and McDonnell**, engineering company, $50,000;
+-  **Burns and McDonnell** engineering company, $50,000;
 -  **St. Luke’s Health System**, $40,000;
 -  **St. Luke’s Foundation**, $30,000;
 -  **KCP&L**, $25,000;
