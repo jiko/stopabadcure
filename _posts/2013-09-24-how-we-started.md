@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How we started
-tags: lead
 published: true
 ---
 
