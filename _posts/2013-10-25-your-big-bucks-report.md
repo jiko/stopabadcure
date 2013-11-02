@@ -1,22 +1,22 @@
 ---
 layout: post
+tags: lead
 published: true
+title: Drunken sailors can't hold a candle to Civic Council's wild spending  
 ---
 
-As of Halloween Day, the people who are trying to buy this election -- the KCFC (Kansas City Fat Cats) -- have contributed more than $1.8 million to the **Committee for Research, Treatments and Cures**. 
+As of Halloween Day, **Committee for Research, Treatments and Cures** has raised and is spending about $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
 
-That means the committee pushing **Jackson County Question 1** probably will end up spending more than $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
+Here's a list of contributions of at least $4,000:
 
-Here's a list of the latest four- and five-figure contributions:
-
-- **UMKC Foundation**, $96,000 on Oct. 28;
-- **Walter Porter**, Olathe, $10,000 on Oct. 31;
-- **Global Prairie**, $5,000, Oct. 31;
-- **James B. Nutter Co.**, $17,000 Oct. 30;
-- **Barnett Helzbert Jr. Revocable Trust**, $25,0000 on Oct. 30;
-- **Kansas City University of Medicine and Biosciences**, $4,450 on Oct. 29;
-- **Sprint**, $25,000 on Oct. 29
-
+- **UMKC Foundation**, $96,000 
+- **Barnett Helzbert Jr. Revocable Trust**, $25,0000
+- **Sprint**, $25,000 
+- **James B. Nutter Co.**, $17,000 
+- **Walter Porter**, Olathe, $10,000 
+- **Global Prairie**, $5,000, 
+- **Kansas City University of Medicine and Biosciences**, $4,450 
+ 
 And here is a list of major contributions that I previously reported, as of Oct. 25:
 
 -  **The Civic Council of Greater Kansas City**, $700,000;
@@ -47,14 +47,3 @@ And here is a list of major contributions that I previously reported, as of Oct.
 -  **Kansas City Chiefs**, $7,500
 -  **Stinson Morrison Hecker** law firm, $7,500;
 
-** 
-
-Here are my Election Day predictions:
-
-1. **Fourteen percent**, or 56,672, of the county's 404,000 registered voters will cast ballots.
-
-2. The total number of "no" votes will be **30,033** (53.1 percent).
-
-3. The total number of "yes" votes will be **26,639** (46.9 percent)
-
-4. The Committee for Research, Treatments and Cures will have spent almost **$75 per vote**.
