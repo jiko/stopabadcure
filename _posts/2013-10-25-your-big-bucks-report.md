@@ -5,7 +5,7 @@ published: true
 title: Drunken sailors can't hold a candle to Civic Council's wild spending  
 ---
 
-As of Halloween Day, **Committee for Research, Treatments and Cures** has raised and is spending about $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
+As of Halloween Day, **Committee for Research, Treatments and Cures** had raised and is spending about $2 million trying to ram this ridiculous half-cent-sales-tax increase down the throats of average citizens. 
 
 Here's a list of contributions of at least $4,000:
 
