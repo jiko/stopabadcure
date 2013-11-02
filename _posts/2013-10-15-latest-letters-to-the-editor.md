@@ -5,6 +5,19 @@ published: true
 
 Here are recent **Kansas City Star** letters to the editor opposing Jackson County Question 1.
 
+**Nov. 1**
+
+A half-cent sales tax in Jackson County to fund medical research is supposed to bring in jobs and business.
+
+Where do you think these extra people will choose to live?
+
+In Kansas City, where the schools lack accreditation? Or in Kansas, where that's not true?
+
+And this will help Kansas City how, exactly?
+
+**Amy Brown**, Leawood
+
+
 **Oct. 29**
 
 Some young woman called me to ask how I will vote on Nov. 5 on the only issue on the ballot, a sales tax that would take $800 million from the pockets of Jackson County residents over a 20-year period. I said I would vote no.
