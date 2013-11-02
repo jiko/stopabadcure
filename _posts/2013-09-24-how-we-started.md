@@ -24,7 +24,7 @@ I also am:
 - A certified teacher. I have substituted for several years in the Shawnee Mission School District.
 - A blogger. I have written the JimmyCsays (jimmycsays.com) blog since March 2010. It's been a great outlet for a lifelong writer and reporter.    
 
-The Stop a Bad Cure committee currently has 32 members, including me. See [About the Committee](/about-the-committee) for the names and cities of residence.
+The Stop a Bad Cure committee has 32 members, including me. See [About the Committee](/about-the-committee) for the names and cities of residence.
 
 You might be asking yourself: _What's in this for Jim Fitzpatrick?_
 
