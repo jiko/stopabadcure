@@ -5,6 +5,17 @@ published: true
 
 Here are recent **Kansas City Star** letters to the editor opposing Jackson County Question 1.
 
+**Nov. 3**
+
+On tuesday, privately funded groups will ask taxpayers for one of the largest sales tax increases in jackson county's history to fund private medical research with a success rate of less than 5 percent at best.
+
+church-funded food and clothing pantries can't meet current demand. Thousands of families are homeless or living with relatives. Funding for Head Start programs is being but, forcing single mothers back on welfare because good-paying jobs have been shipped overseas for cheap wages.
+
+Grandparents are raising grandchildren. And if it weren't for subsidized school-lunch programs, children would go malnourished, seriously damaging their mental and physical development. 
+
+It's quite apparent our great civic leaders have lost touch that =haadt
+
+
 **Nov. 1**
 
 A half-cent sales tax in Jackson County to fund medical research is supposed to bring in jobs and business.
