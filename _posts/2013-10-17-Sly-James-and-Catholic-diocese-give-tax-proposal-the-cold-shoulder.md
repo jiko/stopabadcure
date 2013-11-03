@@ -25,7 +25,7 @@ Listen to the official comment from the mayor’s office:
 
 _“Mayor James is supportive of the broad concept of translational medicine but at this time is not taking a position on this particular ballot question.”_
 
-Reading between the lines, I interpret that to say, "This particular ballot question is not the way to go!"
+Reading between the lines, I interpret that to say, "This particular ballot question sucks!"
 
 A person close to James told me a few weeks ago that James opposed the measure, partly because, if it passed, voters would be less likely to approve any other, higher-priority proposal that City Hall might bring to a vote in the next few years.
 
