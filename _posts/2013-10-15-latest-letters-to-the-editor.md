@@ -7,14 +7,29 @@ Here are recent **Kansas City Star** letters to the editor opposing Jackson Coun
 
 **Nov. 3**
 
-On tuesday, privately funded groups will ask taxpayers for one of the largest sales tax increases in jackson county's history to fund private medical research with a success rate of less than 5 percent at best.
+On Yuesday, privately funded groups will ask taxpayers for one of the largest sales tax increases in Jackson County's history to fund private medical research with a success rate of less than 5 percent at best.
 
-church-funded food and clothing pantries can't meet current demand. Thousands of families are homeless or living with relatives. Funding for Head Start programs is being but, forcing single mothers back on welfare because good-paying jobs have been shipped overseas for cheap wages.
+Church-funded food and clothing pantries can't meet current demand. Thousands of families are homeless or living with relatives. Funding for Head Start programs is being cut, forcing single mothers back on welfare because good-paying jobs have been shipped overseas for cheap wages.
 
 Grandparents are raising grandchildren. And if it weren't for subsidized school-lunch programs, children would go malnourished, seriously damaging their mental and physical development. 
 
-It's quite apparent our great civic leaders have lost touch that =haadt
+It's quite apparent our great civic leaders have lost touch with reality. Let's show some mercy for the children of Jackson County on Tuesday and get to the polls to vote no in resounding numbers.
 
+**Mark Shaft**, Kansas City
+
+**Nov. 3**
+
+I have received a lot of information concerning the proposed 20-year half-cent sales-tax increase in Jackson County to support medical research. I am a progressive voter who generallky supports well-thought-out and fair proposals. This issue is neither.
+
+I understand two private hospitals and the University of Missouri-Kansas City are askng us to saddle low-income people with another regressive tax increase, a tax they cannot afford.
+
+I don't understand why our (Jackson) County Legislature voted to put this on the ballot. But I will remember the legislators' decision, as I hope other Jackson County voters will, at election time.
+
+I may have missed the legislators' rationale for placing this issue on the ballot, but they are responsible. I contacted my legislators before their vote and received a "thank you for contacting me" reply.
+
+The supporters are counting on a low voters turnout Tuesday. But I'm voting "no" and asking others to join me.
+
+**Dick Franklin**, Independence
 
 **Nov. 1**
 
@@ -49,20 +64,3 @@ I plan to vote no.
 
 **Patty McCarty**, Kansas City
 
-**Oct. 27**
-
-If only Jackson County residents are voting on the half-cent, 20-year medical research tax that is supposed to generate $800 million, then the researchers, medical doctors and all subsequent employees who are hired by the groups receiving the money should be required to live in cities and communities in Jackson County and pay property taxes, sales taxes and arena fees in Jackson County.
-
-Their children should be required to go to schools on the Missouri side of the state line. That way our new residents would truly be invested in Kansas City and other Jackson County communities.
-
-**Susan Birt**, Kansas City
-
-**Oct. 26**
-
-Thank you, Yael T. Abouhalkah (KC Star editorial board member and columnist) for punching holes in the latest tax grab for Jackson Countians. We already subsidize the Kansas City Chiefs, the Kansas City Royals and the Kansas City Zoo for all our neighbors to enjoy.
-
-Let's vote down this new 20-year tax. Of course, we would all like to cure every disease, but a half-cent sales tax is not the vehicle to raise those funds. 
-
-I suggest everyone send money to the cause that is closest to each individual's heart, if people can afford such a donation. Let's not tax those who can least afford it.
-
-**Ginzy Schaefer**, Kansas City
