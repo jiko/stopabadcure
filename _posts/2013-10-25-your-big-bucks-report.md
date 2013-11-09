@@ -1,6 +1,5 @@
 ---
 layout: post
-tags: lead
 published: true
 title: Drunken sailors can't hold a candle to Civic Council's wild spending  
 ---
